@@ -1,11 +1,8 @@
 {
-  "HomePage": {
-    "create": "창조하다",
-    "t3": "티3",
-    "firstSteps": "첫 번째 단계",
-    "firstStepsDesc": "기본 사항 - 데이터베이스 및 인증을 설정하기 위해 알아야 할 모든 것.",
-    "docs": "문서조사",
-    "docsDesc": "Create T3 App, 사용하는 라이브러리 및 배포 방법에 대해 자세히 알아보세요."
+  "website": {
+    "name": "HorizonWing",
+    "title": "HorizonWing - AI 기반 비즈니스 솔루션 및 디지털 혁신",
+    "description": "HorizonWing의 AI 솔루션으로 비즈니스를 혁신하세요. 최첨단 기술로 운영을 간소화하고 생산성을 높이며 혁신을 주도합니다."
   },
   "Navbar": {
     "home": "집",
@@ -72,7 +69,7 @@
     "title": "일반적인 질문",
     "description": "HorizonWing 랜딩 페이지 템플릿에 대해 알아야 할 모든 것",
     "questionOne": "HorizonWing은 어떤 기술을 사용합니까?",
-    "answerOne": "HorizonWing은 Next.js, TypeScript, Tailwind CSS 및 기타 최신 도구로 구축되었습니다. 성능 및 SEO에 대한 모범 사례를 사용합니다.",
+    "answerOne": "HorizonWing은 Next.js, TypeScript, Tailwind CSS 및 기타 최신 도구로 구축되었니다. 성능 및 SEO 대한 모범 사례를 사용합니다.",
     "questionTwo": "사용자 정의가 쉽습니까?",
     "answerTwo": "예! 이 템플릿은 고도로 모듈화되어 있으며 잘 문서화되어 있습니다. 구성 요소, 스타일 및 콘텐츠를 브랜드에 맞게 쉽게 수정할 수 있습니다.",
     "questionThree": "국제화는 어떻게 이루어지나요?",

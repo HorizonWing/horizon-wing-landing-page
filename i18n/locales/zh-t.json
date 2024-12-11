@@ -1,11 +1,8 @@
 {
-  "HomePage": {
-    "create": "創造",
-    "t3": "T3",
-    "firstSteps": "第一步",
-    "firstStepsDesc": "只是基礎知識 - 設置資料庫和身份驗證所需瞭解的一切。",
-    "docs": "文件",
-    "docsDesc": "瞭解有關 Create T3 App、它使用的庫以及如何部署它的更多資訊。"
+  "website": {
+    "name": "HorizonWing",
+    "title": "HorizonWing - AI驅動的商業解決方案與數位創新",
+    "description": "藉助 HorizonWing 的 AI 解決方案轉型您的業務。通過我們的前沿技術簡化運營、提升生產力並推動創新。"
   },
   "Navbar": {
     "home": "家",
@@ -47,7 +44,7 @@
     "GlobalizationSupportDesc": "內置國際化功能，實現全球覆蓋"
   },
   "Testimonial": {
-    "title": "使用者對 #0 的評價#",
+    "title": "使用者對 HorizonWing 的評價",
     "description": "了解開發人員和創作者對我們的著陸頁範本的看法。",
     "quoteOne": "HorizonWing 的結構非常好。代碼很乾淨，文檔也很棒。",
     "authorOne": "陳磊",
@@ -58,7 +55,7 @@
     "quoteThree": "我用過的最好的著陸頁範本。SEO 優化確實幫助了我們的網站排名。",
     "authorThree": "詹姆斯·威爾遜",
     "titleThree": "初創公司創始人",
-    "quoteFour": "回應式設計在所有設備上都能完美運行。對細節的關注給我留下了深刻的印象。",
+    "quoteFour": "回應式設計在所有設備上都能完美行。對細節的關注給我留下了深刻的印象。",
     "authorFour": "索菲·馬丁",
     "titleFour": "UI 設計師",
     "quoteFive": "定製非常簡單。我們很快就將其適應了我們的品牌。",
@@ -78,7 +75,7 @@
     "questionThree": "國際化如何運作？",
     "answerThree": "我們使用 next-intl 進行國際化，從而輕鬆添加新語言。只需將您的翻譯添加到 messages 資料夾中即可。",
     "questionFour": "我可以將其用於商業專案嗎？",
-    "answerFour": "絕對！HorizonWing 是開源的，可免費用於個人和商業專案。",
+    "answerFour": "絕對！HorizonWing 開源的，可免費用於個人和商業專案。",
     "questionFive": "我需要編碼經驗嗎？",
     "answerFive": "React 和 Tailwind CSS 的基本知識很有説明，但我們的文檔即使對於初學者也很容易。"
   },

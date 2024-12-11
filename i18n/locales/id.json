@@ -1,11 +1,8 @@
 {
-  "HomePage": {
-    "create": "Menciptakan",
-    "t3": "T3",
-    "firstSteps": "Langkah pertama",
-    "firstStepsDesc": "Hanya dasar-dasar - Semua yang perlu Anda ketahui untuk menyiapkan database dan autentikasi Anda.",
-    "docs": "Dokumentasi",
-    "docsDesc": "Pelajari selengkapnya tentang Buat Aplikasi T3, pustaka yang digunakannya, dan cara menerapkannya."
+  "website": {
+    "name": "HorizonWing",
+    "title": "HorizonWing - Solusi Bisnis Berbasis AI & Inovasi Digital",
+    "description": "Transformasikan bisnis Anda dengan solusi AI HorizonWing. Sederhanakan operasi, tingkatkan produktivitas, dan dorong inovasi dengan teknologi mutakhir kami."
   },
   "Navbar": {
     "home": "Rumah",

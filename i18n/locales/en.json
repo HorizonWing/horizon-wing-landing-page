@@ -1,1 +1,123 @@
- 
+{
+  "website": {
+    "name": "HorizonWing",
+    "title": "HorizonWing - AI-Powered Business Solutions & Digital Innovation",
+    "description": "Transform your business with HorizonWing's AI solutions. Streamline operations, boost productivity, and drive innovation with our cutting-edge technology."
+  },
+  "Navbar": {
+    "home": "Home",
+    "pricing": "Pricing",
+    "menu": "Menu"
+  },
+  "Footer": {
+    "description": "HorizonWing is a modern, open-source landing page template built with Next.js and Tailwind CSS, helping developers create beautiful websites faster.",
+    "product": "Product",
+    "components": "Components",
+    "templates": "Templates",
+    "documentation": "Documentation",
+    "social": "Social",
+    "github": "GitHub",
+    "community": "Community",
+    "twitter": "Twitter",
+    "discord": "Discord",
+    "telegram": "Telegram",
+    "copyright": "All rights reserved.",
+    "service": "Resources",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact Us"
+  },
+  "Feature": {
+    "title": "Key Features",
+    "description": "A modern landing page template built with Next.js, Tailwind CSS, Shadcn, and TypeScript",
+    "openSource": "Open Source",
+    "openSourceDesc": "Free and open source, perfect for your next project",
+    "ResponsiveDesign": "Responsive Design",
+    "ResponsiveDesignDesc": "Looks great on any device, from mobile to desktop",
+    "EasyCustomization": "Easy Customization",
+    "EasyCustomizationDesc": "Simple to customize with modular components",
+    "MobileFriendly": "Mobile Friendly",
+    "MobileFriendlyDesc": "Optimized for mobile devices with smooth interactions",
+    "SEOOptimized": "SEO Optimized",
+    "SEOOptimizedDesc": "Built with SEO best practices for better visibility",
+    "GlobalizationSupport": "i18n Support",
+    "GlobalizationSupportDesc": "Built-in internationalization for global reach"
+  },
+  "Testimonial": {
+    "title": "What Users Say About HorizonWing",
+    "description": "See what developers and creators think about our landing page template.",
+    "quoteOne": "HorizonWing is incredibly well-structured. The code is clean and the documentation is excellent.",
+    "authorOne": "Alex Chen",
+    "titleOne": "Frontend Developer",
+    "quoteTwo": "The internationalization support is fantastic. Saved me hours of work on localization.",
+    "authorTwo": "Maria Garcia",
+    "titleTwo": "Project Manager",
+    "quoteThree": "Best landing page template I've used. SEO optimization really helped our site ranking.",
+    "authorThree": "James Wilson",
+    "titleThree": "Startup Founder",
+    "quoteFour": "The responsive design works perfectly across all devices. Very impressed with the attention to detail.",
+    "authorFour": "Sophie Martin",
+    "titleFour": "UI Designer",
+    "quoteFive": "Customization is super easy. We adapted it to our brand in no time.",
+    "authorFive": "David Kim",
+    "titleFive": "Marketing Director",
+    "quoteSix": "The mobile-first approach and performance optimizations are exactly what we needed.",
+    "authorSix": "Emma Thompson",
+    "titleSix": "Web Developer"
+  },
+  "Faq": {
+    "title": "Common Questions",
+    "description": "Everything you need to know about HorizonWing landing page template",
+    "questionOne": "What technologies does HorizonWing use?",
+    "answerOne": "HorizonWing is built with Next.js, TypeScript, Tailwind CSS, and other modern tools. It uses best practices for performance and SEO.",
+    "questionTwo": "Is it easy to customize?",
+    "answerTwo": "Yes! The template is highly modular and well-documented. You can easily modify components, styles, and content to match your brand.",
+    "questionThree": "How does the internationalization work?",
+    "answerThree": "We use next-intl for internationalization, making it easy to add new languages. Just add your translations to the messages folder.",
+    "questionFour": "Can I use it for commercial projects?",
+    "answerFour": "Absolutely! HorizonWing is open-source and free to use for both personal and commercial projects.",
+    "questionFive": "Do I need coding experience?",
+    "answerFive": "Basic knowledge of React and Tailwind CSS is helpful, but our documentation makes it easy even for beginners."
+  },
+  "Cta": {
+    "title": "Start Building Your Landing Page Today",
+    "description": "Join thousands of developers who are using HorizonWing to create modern, responsive landing pages. Get started with our open-source template.",
+    "primaryAction": "Start Building",
+    "secondaryAction": "View on GitHub"
+  },
+  "Pricing": {
+    "title": "Simple Pricing",
+    "description": "Choose the perfect plan for your project",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "oneTime": "Lifetime",
+    "month": "month",
+    "popular": "Popular",
+    "upgrade": "Get Started",
+    "basicTitle": "Basic",
+    "proTitle": "Pro",
+    "basicBilling": "Perfect for personal projects",
+    "proBilling": "Best for business websites",
+    "basicFeatureTitle": "Everything you need to get started",
+    "proFeatureTitle": "Advanced features for professionals",
+    "basic": {
+      "credits": "All core components",
+      "generation": "Basic templates",
+      "cover": "Community support",
+      "scripts": "Dark mode",
+      "download": "Basic SEO optimization"
+    },
+    "pro": {
+      "credits": "Everything in Basic",
+      "basic": "Premium components",
+      "llm": "Premium templates",
+      "tts": "Priority support",
+      "styles": "Advanced customization"
+    }
+  },
+  "Hero": {
+    "title": "Make Landing Page Faster",
+    "description": "This is a free, open-source and powerful landing page template for saas project, it will help you to make your startup faster.",
+    "action": "Get Started"
+  }
+}

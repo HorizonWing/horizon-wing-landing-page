@@ -1,11 +1,8 @@
 {
-  "HomePage": {
-    "create": "Criar",
-    "t3": "T3",
-    "firstSteps": "Primeiros passos",
-    "firstStepsDesc": "Apenas o básico - Tudo o que você precisa saber para configurar seu banco de dados e autenticação.",
-    "docs": "Documentação",
-    "docsDesc": "Saiba mais sobre o Create T3 App, as bibliotecas que ele usa e como implantá-lo."
+  "website": {
+    "name": "HorizonWing",
+    "title": "HorizonWing - Soluções Empresariais Baseadas em IA e Inovação Digital",
+    "description": "Transforme seu negócio com as soluções de IA da HorizonWing. Simplifique operações, aumente a produtividade e impulsione a inovação com nossa tecnologia de ponta."
   },
   "Navbar": {
     "home": "Casa",
@@ -49,7 +46,7 @@
   "Testimonial": {
     "title": "O que os usuários dizem sobre HorizonWing",
     "description": "Veja o que os desenvolvedores e criadores pensam sobre nosso modelo de página de destino.",
-    "quoteOne": "# 0 # é incrivelmente bem estruturado. O código é limpo e a documentação é excelente.",
+    "quoteOne": "HorizonWing é incrivelmente bem estruturado. O código é limpo e a documentação é excelente.",
     "authorOne": "Alex Chen",
     "titleOne": "Desenvolvedor Frontend",
     "quoteTwo": "O apoio à internacionalização é fantástico. Poupou-me horas de trabalho na localização.",

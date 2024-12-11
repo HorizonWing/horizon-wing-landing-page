@@ -1,1 +1,123 @@
- 
+{
+  "website": {
+    "name": "HorizonWing",
+    "title": "HorizonWing - AI驱动的商业解决方案与数字创新",
+    "description": "借助 HorizonWing 的 AI 解决方案转型您的业务。通过我们的前沿技术简化运营、提升生产力并推动创新。"
+  },
+  "Navbar": {
+    "home": "首页",
+    "pricing": "定价",
+    "menu": "菜单"
+  },
+  "Footer": {
+    "description": "HorizonWing 是一个使用 Next.js 和 Tailwind CSS 构建的现代开源落地页模板，帮助开发者更快地创建精美网站。",
+    "product": "产品",
+    "components": "组件库",
+    "templates": "模板",
+    "documentation": "文档",
+    "social": "社交媒体",
+    "github": "GitHub",
+    "community": "社区",
+    "twitter": "Twitter",
+    "discord": "Discord",
+    "telegram": "Telegram",
+    "copyright": "保留所有权利。",
+    "service": "资源",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "contact": "联系我们"
+  },
+  "Feature": {
+    "title": "核心功能",
+    "description": "使用 Next.js、Tailwind CSS、Shadcn 和 TypeScript 构建的现代落地页模板",
+    "openSource": "开源免费",
+    "openSourceDesc": "免费开源，完美适配您的下一个项目",
+    "ResponsiveDesign": "响应式设计",
+    "ResponsiveDesignDesc": "在任何设备上都能完美展示，从手机到桌面",
+    "EasyCustomization": "易于定制",
+    "EasyCustomizationDesc": "模块化组件设计，简单易于定制",
+    "MobileFriendly": "移动优先",
+    "MobileFriendlyDesc": "针对移动设备优化，交互流畅自然",
+    "SEOOptimized": "SEO优化",
+    "SEOOptimizedDesc": "采用SEO最佳实践，提升搜索引擎可见度",
+    "GlobalizationSupport": "国际化支持",
+    "GlobalizationSupportDesc": "内置国际化功能，轻松实现全球化"
+  },
+  "Testimonial": {
+    "title": "用户对HorizonWing的评价",
+    "description": "看看开发者和创作者如何评价我们的落地页模板",
+    "quoteOne": "HorizonWing的结构非常清晰，代码整洁，文档详尽。",
+    "authorOne": "陈",
+    "titleOne": "前端开发者",
+    "quoteTwo": "国际化支持非常出色，为我节省了本地化的大量工作时间。",
+    "authorTwo": "玛丽亚",
+    "titleTwo": "项目经理",
+    "quoteThree": "我用过的最好的落地页模板。SEO优化真的帮助提升了我们的网站排名。",
+    "authorThree": "詹姆斯",
+    "titleThree": "创业者",
+    "quoteFour": "响应式设计在所有设备上都完美运行。对细节的关注令人印象深刻。",
+    "authorFour": "苏菲",
+    "titleFour": "UI设计师",
+    "quoteFive": "定非常容易，我们很快就完成了品牌适配。",
+    "authorFive": "金大卫",
+    "titleFive": "营销总监",
+    "quoteSix": "移动优先的方法和性能优化正是我们所需要的。",
+    "authorSix": "艾玛",
+    "titleSix": "网页开发者"
+  },
+  "Faq": {
+    "title": "常见问题",
+    "description": "关于HorizonWing落地页模板您需要了解的一切",
+    "questionOne": "HorizonWing使用了哪些技术？",
+    "answerOne": "HorizonWing使用Next.js、TypeScript、Tailwind CSS等现代工具构建。采用了性能和SEO的最佳实践。",
+    "questionTwo": "是否容易定制？",
+    "answerTwo": "是的！模板采用模块化设计，文档完善。您可以轻松修改组件、样式和内容以匹配您的品牌。",
+    "questionThree": "国际化功能如何实现？",
+    "answerThree": "我们使用next-intl进行国际化，添加新语言非常简单。只需��在messages文件夹中添加您的翻译即可。",
+    "questionFour": "可以用于商业项目吗？",
+    "answerFour": "当然可以！HorizonWing是开源的，可以免费用于个人和商业项目。",
+    "questionFive": "需要编程经验吗？",
+    "answerFive": "了解React和Tailwind CSS的基础知识会有帮助，但我们的文档让初学者也能轻松上手。"
+  },
+  "Cta": {
+    "title": "立马开始构建你落地页",
+    "description": "加入数千名正在使用HorizonWing创建现代响应式落地页的开发者。立即开始使用我们的开源模板。",
+    "primaryAction": "免费开始使用",
+    "secondaryAction": "立即查看GitHub"
+  },
+  "Pricing": {
+    "title": "简单定价",
+    "description": "为您的项目选择完美的方案",
+    "monthly": "月付",
+    "yearly": "年付",
+    "oneTime": "终身",
+    "month": "月",
+    "popular": "热门",
+    "upgrade": "开始使用",
+    "basicTitle": "基础版",
+    "proTitle": "专业版",
+    "basicBilling": "个人项目的完美选择",
+    "proBilling": "企业网站的最佳选择",
+    "basicFeatureTitle": "开始所需的一切功能",
+    "proFeatureTitle": "适合专业人士的高级功能",
+    "basic": {
+      "credits": "所有核心组件",
+      "generation": "基础模板",
+      "cover": "社区支持",
+      "scripts": "暗色模式",
+      "download": "基础SEO优化"
+    },
+    "pro": {
+      "credits": "包含基础版全部功能",
+      "basic": "高级组件",
+      "llm": "高级模板",
+      "tts": "优先支持",
+      "styles": "高级定制"
+    }
+  },
+  "Hero": {
+    "title": "快速制作落地页",
+    "description": "这是一个免费、开源且功能强大的落地页模板，适用于SaaS项目，它将帮助您更快地启动您的创业项目。",
+    "action": "开始使用"
+  }
+}

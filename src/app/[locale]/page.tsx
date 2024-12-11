@@ -9,12 +9,16 @@ import { type Metadata } from 'next'
 import { getLocale } from "next-intl/server";
 import { getLocaleUrl } from "@/lib/utils";
 import { locales } from "i18n/request";
+import { getTranslations } from 'next-intl/server';
 
 export async function generateMetadata(): Promise<Metadata> {
   const locale = await getLocale();
+  const t = await getTranslations('website');
+  
+  
   return {
-    title: "HorizonWing - Landing Page",
-    description: "Horizon Wing Landing Page",
+    title: t("title"),
+    description: t("description"),
     alternates: {
       canonical: getLocaleUrl(locale),
       languages: Object.fromEntries(
@@ -24,8 +28,8 @@ export async function generateMetadata(): Promise<Metadata> {
       )
     },
     openGraph: {
-      title: 'HorizonWing - Landing Page',
-      description: 'Horizon Wing Landing Page',
+      title: t("title"),
+      description: t("description"),
       url: getLocaleUrl(locale),
       siteName: 'HorizonWing',
       images: [
@@ -41,8 +45,8 @@ export async function generateMetadata(): Promise<Metadata> {
     },
     twitter: {
       card: 'summary_large_image',
-      title: 'HorizonWing - Landing Page',
-      description: 'Horizon Wing Landing Page',
+      title: t("title"),
+      description: t("description"),
       images: ['/og-image.png'],
       creator: '@HorizonWingTech',
     },

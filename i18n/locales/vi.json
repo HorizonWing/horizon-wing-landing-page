@@ -1,11 +1,8 @@
 {
-  "HomePage": {
-    "create": "Tạo",
-    "t3": "T3",
-    "firstSteps": "Những bước đầu tiên",
-    "firstStepsDesc": "Chỉ những điều cơ bản - Mọi thứ bạn cần biết để thiết lập cơ sở dữ liệu và xác thực của mình.",
-    "docs": "Tư liệu",
-    "docsDesc": "Tìm hiểu thêm về Tạo ứng dụng T3, các thư viện mà ứng dụng này sử dụng và cách triển khai."
+  "website": {
+    "name": "HorizonWing",
+    "title": "HorizonWing - Giải pháp kinh doanh được hỗ trợ bởi AI & Đổi mới số",
+    "description": "Chuyển đổi doanh nghiệp của bạn với giải pháp AI của HorizonWing. Tối ưu hóa hoạt động, tăng năng suất và thúc đẩy đổi mới với công nghệ tiên tiến của chúng tôi."
   },
   "Navbar": {
     "home": "Nhà",

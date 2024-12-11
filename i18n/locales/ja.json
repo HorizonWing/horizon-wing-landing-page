@@ -1,11 +1,8 @@
 {
-  "HomePage": {
-    "create": "創造する",
-    "t3": "T3",
-    "firstSteps": "最初のステップ",
-    "firstStepsDesc": "基本事項 - データベースと認証を設定するために知っておく必要のあるすべての情報。",
-    "docs": "ドキュメンテーション",
-    "docsDesc": "Create T3 App、使用するライブラリ、およびデプロイ方法の詳細をご覧ください。"
+  "website": {
+    "name": "HorizonWing",
+    "title": "HorizonWing - AIパワードビジネスソリューションとデジタルイノベーション",
+    "description": "HorizonWingのAIソリューションでビジネスを変革。最先端技術で業務を効率化し、生産性を向上させ、イノベーションを推進します。"
   },
   "Navbar": {
     "home": "家",

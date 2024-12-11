@@ -1,11 +1,8 @@
 {
-  "HomePage": {
-    "create": "Créer",
-    "t3": "T3",
-    "firstSteps": "Premiers pas",
-    "firstStepsDesc": "Juste l’essentiel - Tout ce que vous devez savoir pour configurer votre base de données et votre authentification.",
-    "docs": "Documentation",
-    "docsDesc": "En savoir plus sur Create T3 App, les bibliothèques qu’elle utilise et comment la déployer."
+  "website": {
+    "name": "HorizonWing",
+    "title": "HorizonWing - Solutions d'entreprise alimentées par l'IA et innovation numérique",
+    "description": "Transformez votre entreprise avec les solutions d'IA de HorizonWing. Rationalisez les opérations, augmentez la productivité et stimulez l'innovation grâce à notre technologie de pointe."
   },
   "Navbar": {
     "home": "Domicile",
