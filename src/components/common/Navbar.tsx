@@ -81,6 +81,7 @@ export default function Navbar() {
             href={env.NEXT_PUBLIC_GITHUB_REPO_URL}
             target="_blank"
             rel="noreferrer"
+            aria-label="view in github"
             className="inline-flex items-center justify-center rounded-md text-sm font-medium transition-colors hover:bg-accent hover:text-accent-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:opacity-50 disabled:pointer-events-none ring-offset-background"
           >
             <Github className="h-5 w-5" />
@@ -95,7 +96,7 @@ export default function Navbar() {
           {/* Mobile Menu */}
           <Sheet>
             <SheetTrigger asChild className="md:hidden">
-              <Button variant="ghost" size="icon">
+              <Button variant="ghost" size="icon" aria-label="open menus">
                 <Menu className="h-4 w-4" />
               </Button>
             </SheetTrigger>

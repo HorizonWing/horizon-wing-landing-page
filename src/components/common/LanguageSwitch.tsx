@@ -11,6 +11,7 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import { localeItems } from "@/../i18n/request";
+import { Button } from "@/components/ui/button";
 
 
 export default function LanguageSwitch() {
@@ -30,17 +31,28 @@ export default function LanguageSwitch() {
 
   return (
     <DropdownMenu>
-      <DropdownMenuTrigger 
-        className="flex items-center gap-2 px-3 py-2 rounded-md hover:bg-accent hover:text-accent-foreground focus:outline-none"
-        disabled={isChanging}
-      >
-        <Globe className="h-4 w-4" />
-        <span className="hidden md:block">{localeItems.find(lang => lang.code === locale)?.name ?? 'Language'}</span>
+      <DropdownMenuTrigger asChild>
+        <Button 
+          variant="ghost" 
+          className="flex items-center gap-2 hover:bg-transparent focus-visible:ring-0 focus-visible:ring-offset-0"
+          aria-label="Select language"
+          aria-haspopup="menu"
+        >
+          <Globe className="h-4 w-4" />
+          <span className="hidden md:inline-block">
+            {localeItems.find(lang => lang.code === locale)?.name ?? 'Language'}
+          </span>
+        </Button>
       </DropdownMenuTrigger>
-      <DropdownMenuContent align="end">
+      <DropdownMenuContent 
+        align="end"
+        aria-label="Language selection menu"
+      >
         {localeItems.map((lang) => (
-          <DropdownMenuItem
+          <DropdownMenuItem 
             key={lang.code}
+            role="menuitem"
+            aria-label={`Switch to ${lang.name}`}
             disabled={isChanging || locale === lang.code}
             onClick={() => switchLanguage(lang.code)}
             className={locale === lang.code ? 'bg-accent' : ''}
