@@ -1,0 +1,126 @@
+{
+  "HomePage": {
+    "create": "Mencipta",
+    "t3": "T3",
+    "firstSteps": "Langkah Pertama",
+    "firstStepsDesc": "Hanya asas - Semua yang anda perlu tahu untuk menyediakan pangkalan data dan pengesahan anda.",
+    "docs": "Dokumentasi",
+    "docsDesc": "Ketahui lebih lanjut tentang Cipta Aplikasi T3, perpustakaan yang digunakannya dan cara menggunakannya."
+  },
+  "Navbar": {
+    "home": "Rumah",
+    "pricing": "Harga",
+    "menu": "Menu"
+  },
+  "Footer": {
+    "description": "HorizonWing ialah templat halaman pendaratan sumber terbuka moden yang dibina dengan Next.js dan Tailwind CSS, membantu pembangun mencipta tapak web yang cantik dengan lebih pantas.",
+    "product": "Produk",
+    "components": "Komponen",
+    "templates": "Template",
+    "documentation": "Dokumentasi",
+    "social": "Sosial",
+    "github": "Github",
+    "community": "Komuniti",
+    "twitter": "Twitter",
+    "discord": "Perselisihan",
+    "telegram": "Telegram",
+    "copyright": "Hakcipta terpelihara.",
+    "service": "Sumber",
+    "privacy": "Dasar Privasi",
+    "terms": "Syarat Perkhidmatan",
+    "contact": "Hubungi Kami"
+  },
+  "Feature": {
+    "title": "Ciri-ciri utama",
+    "description": "Templat halaman pendaratan moden yang dibina dengan Next.js, Tailwind CSS, Shadcn dan TypeScript",
+    "openSource": "Sumber Terbuka",
+    "openSourceDesc": "Sumber percuma dan terbuka, sesuai untuk projek anda yang seterusnya",
+    "ResponsiveDesign": "Reka Bentuk Responsif",
+    "ResponsiveDesignDesc": "Kelihatan hebat pada mana-mana peranti, daripada mudah alih ke desktop",
+    "EasyCustomization": "Penyesuaian Mudah",
+    "EasyCustomizationDesc": "Mudah disesuaikan dengan komponen modular",
+    "MobileFriendly": "Mesra Mudah Alih",
+    "MobileFriendlyDesc": "Dioptimumkan untuk peranti mudah alih dengan interaksi yang lancar",
+    "SEOOptimized": "SEO Dioptimumkan",
+    "SEOOptimizedDesc": "Dibina dengan amalan terbaik SEO untuk keterlihatan yang lebih baik",
+    "GlobalizationSupport": "Sokongan i18n",
+    "GlobalizationSupportDesc": "Pengantarabangsaan terbina dalam untuk jangkauan global"
+  },
+  "Testimonial": {
+    "title": "Apa Kata Pengguna Mengenai HorizonWing",
+    "description": "Lihat pendapat pembangun dan pencipta tentang templat halaman pendaratan kami.",
+    "quoteOne": "HorizonWing sangat tersusun dengan baik. Kodnya bersih dan dokumentasinya sangat baik.",
+    "authorOne": "Alex Chen",
+    "titleOne": "Pemaju Bahagian Hadapan",
+    "quoteTwo": "Sokongan pengantarabangsaan sangat hebat. Menjimatkan saya berjam-jam kerja pada penyetempatan.",
+    "authorTwo": "Maria Garcia",
+    "titleTwo": "Pengurus projek",
+    "quoteThree": "Templat halaman pendaratan terbaik yang pernah saya gunakan. Pengoptimuman SEO benar-benar membantu kedudukan laman web kami.",
+    "authorThree": "James Wilson",
+    "titleThree": "Pengasas Permulaan",
+    "quoteFour": "Reka bentuk responsif berfungsi dengan sempurna merentas semua peranti. Sangat kagum dengan perhatian terhadap perincian.",
+    "authorFour": "Sophie Martin",
+    "titleFour": "Pereka UI",
+    "quoteFive": "Penyesuaian sangat mudah. Kami menyesuaikannya dengan jenama kami dalam masa yang singkat.",
+    "authorFive": "David Kim",
+    "titleFive": "Pengarah Pemasaran",
+    "quoteSix": "Pendekatan mengutamakan mudah alih dan pengoptimuman prestasi adalah apa yang kami perlukan.",
+    "authorSix": "Emma Thompson",
+    "titleSix": "Pemaju Web"
+  },
+  "Faq": {
+    "title": "Soalan-soalan biasa",
+    "description": "Semua yang anda perlu tahu tentang templat halaman pendaratan HorizonWing",
+    "questionOne": "Apakah teknologi yang digunakan oleh HorizonWing?",
+    "answerOne": "HorizonWing dibina dengan Next.js, TypeScript, Tailwind CSS dan alatan moden yang lain. Ia menggunakan amalan terbaik untuk prestasi dan SEO.",
+    "questionTwo": "Adakah mudah untuk disesuaikan?",
+    "answerTwo": "Ya! Templat ini sangat modular dan didokumentasikan dengan baik. Anda boleh mengubah suai komponen, gaya dan kandungan dengan mudah agar sepadan dengan jenama anda.",
+    "questionThree": "Bagaimanakah pengantarabangsaan berfungsi?",
+    "answerThree": "Kami menggunakan next-intl untuk pengantarabangsaan, menjadikannya mudah untuk menambah bahasa baharu. Hanya tambahkan terjemahan anda ke folder mesej.",
+    "questionFour": "Bolehkah saya menggunakannya untuk projek komersial?",
+    "answerFour": "Benar! HorizonWing ialah sumber terbuka dan percuma untuk digunakan untuk kedua-dua projek peribadi dan komersial.",
+    "questionFive": "Adakah saya memerlukan pengalaman pengekodan?",
+    "answerFive": "Pengetahuan asas tentang React dan Tailwind CSS sangat membantu, tetapi dokumentasi kami menjadikannya mudah walaupun untuk pemula."
+  },
+  "Cta": {
+    "title": "Mula membina halaman pendaratan anda hari ini",
+    "description": "Sertai beribu-ribu pembangun yang menggunakan HorizonWing untuk mencipta halaman pendaratan yang moden dan responsif. Mulakan dengan templat sumber terbuka kami.",
+    "primaryAction": "Mula Membina",
+    "secondaryAction": "Lihat di GitHub"
+  },
+  "Pricing": {
+    "title": "Harga Mudah",
+    "description": "Pilih pelan yang sesuai untuk projek anda",
+    "monthly": "Bulanan",
+    "yearly": "Tahunan",
+    "oneTime": "Seumur hidup",
+    "month": "Bulan",
+    "popular": "Popular",
+    "upgrade": "Bermula",
+    "basicTitle": "Asas",
+    "proTitle": "Pro",
+    "basicBilling": "Sesuai untuk projek peribadi",
+    "proBilling": "Terbaik untuk laman web perniagaan",
+    "basicFeatureTitle": "Semua yang anda perlukan untuk bermula",
+    "proFeatureTitle": "Ciri lanjutan untuk profesional",
+    "basic": {
+      "credits": "Semua komponen teras",
+      "generation": "Templat asas",
+      "cover": "Sokongan komuniti",
+      "scripts": "Mod gelap",
+      "download": "Pengoptimuman SEO asas"
+    },
+    "pro": {
+      "credits": "Segala-galanya dalam Basic",
+      "basic": "Komponen premium",
+      "llm": "Templat premium",
+      "tts": "Sokongan keutamaan",
+      "styles": "Penyesuaian lanjutan"
+    }
+  },
+  "Hero": {
+    "title": "Jadikan Halaman Pendaratan Lebih Pantas",
+    "description": "Ini ialah templat halaman pendaratan percuma, sumber terbuka dan berkuasa untuk projek saas, ia akan membantu anda membuat permulaan anda lebih pantas.",
+    "action": "Bermula"
+  }
+}

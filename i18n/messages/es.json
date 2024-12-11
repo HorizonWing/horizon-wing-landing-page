@@ -1,0 +1,126 @@
+{
+  "HomePage": {
+    "create": "Crear",
+    "t3": "T3",
+    "firstSteps": "Primeros pasos",
+    "firstStepsDesc": "Solo lo básico: todo lo que necesita saber para configurar su base de datos y autenticación.",
+    "docs": "Documentación",
+    "docsDesc": "Obtenga más información sobre Create T3 App, las bibliotecas que usa y cómo implementarla."
+  },
+  "Navbar": {
+    "home": "Hogar",
+    "pricing": "Precios",
+    "menu": "Menú"
+  },
+  "Footer": {
+    "description": "HorizonWing es una plantilla de página de destino moderna y de código abierto creada con Next.js y Tailwind CSS, que ayuda a los desarrolladores a crear hermosos sitios web más rápido.",
+    "product": "Producto",
+    "components": "Componentes",
+    "templates": "Plantillas",
+    "documentation": "Documentación",
+    "social": "Social",
+    "github": "GitHub (en inglés)",
+    "community": "Comunidad",
+    "twitter": "Twitter",
+    "discord": "Discordia",
+    "telegram": "Telegrama",
+    "copyright": "Todos los derechos reservados.",
+    "service": "Recursos",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "contact": "Contáctenos"
+  },
+  "Feature": {
+    "title": "Características principales",
+    "description": "Una plantilla de página de destino moderna creada con Next.js, Tailwind CSS, Shadcn y TypeScript",
+    "openSource": "Código abierto",
+    "openSourceDesc": "Gratis y de código abierto, perfecto para tu próximo proyecto",
+    "ResponsiveDesign": "Diseño Responsivo",
+    "ResponsiveDesignDesc": "Se ve muy bien en cualquier dispositivo, desde el móvil hasta el escritorio",
+    "EasyCustomization": "Fácil personalización",
+    "EasyCustomizationDesc": "Fácil de personalizar con componentes modulares",
+    "MobileFriendly": "Compatible con dispositivos móviles",
+    "MobileFriendlyDesc": "Optimizado para dispositivos móviles con interacciones fluidas",
+    "SEOOptimized": "Optimizado para SEO",
+    "SEOOptimizedDesc": "Construido con las mejores prácticas de SEO para una mejor visibilidad",
+    "GlobalizationSupport": "Compatibilidad con i18n",
+    "GlobalizationSupportDesc": "Internacionalización incorporada para un alcance global"
+  },
+  "Testimonial": {
+    "title": "Lo que dicen los usuarios sobre HorizonWing",
+    "description": "Mira lo que piensan los desarrolladores y creadores sobre nuestra plantilla de página de destino.",
+    "quoteOne": "HorizonWing está increíblemente bien estructurado. El código está limpio y la documentación es excelente.",
+    "authorOne": "Alex Chen",
+    "titleOne": "Desarrollador Frontend",
+    "quoteTwo": "El apoyo a la internacionalización es fantástico. Me ahorró horas de trabajo en la localización.",
+    "authorTwo": "María García",
+    "titleTwo": "Gerente de Proyectos",
+    "quoteThree": "La mejor plantilla de página de destino que he usado. La optimización SEO realmente ayudó a la clasificación de nuestro sitio.",
+    "authorThree": "James Wilson",
+    "titleThree": "Fundador de la startup",
+    "quoteFour": "El diseño responsivo funciona perfectamente en todos los dispositivos. Muy impresionado con la atención al detalle.",
+    "authorFour": "Sophie Martin",
+    "titleFour": "Diseñador de interfaz de usuario",
+    "quoteFive": "La personalización es muy fácil. Lo adaptamos a nuestra marca en poco tiempo.",
+    "authorFive": "David Kim",
+    "titleFive": "Marketing Director",
+    "quoteSix": "El enfoque móvil y las optimizaciones de rendimiento son exactamente lo que necesitábamos.",
+    "authorSix": "Emma Thompson",
+    "titleSix": "Desarrollador Web"
+  },
+  "Faq": {
+    "title": "Preguntas comunes",
+    "description": "Todo lo que necesitas saber sobre la plantilla de página de destino HorizonWing",
+    "questionOne": "¿Qué tecnologías utiliza HorizonWing?",
+    "answerOne": "HorizonWing está construido con Next.js, TypeScript, Tailwind CSS y otras herramientas modernas. Utiliza las mejores prácticas para el rendimiento y el SEO.",
+    "questionTwo": "¿Es fácil de personalizar?",
+    "answerTwo": "¡Sí! La plantilla es muy modular y está bien documentada. Puede modificar fácilmente los componentes, los estilos y el contenido para que coincidan con su marca.",
+    "questionThree": "¿Cómo funciona la internacionalización?",
+    "answerThree": "Utilizamos next-intl para la internacionalización, lo que facilita la adición de nuevos idiomas. Sólo tienes que añadir tus traducciones a la carpeta de mensajes.",
+    "questionFour": "¿Puedo usarlo para proyectos comerciales?",
+    "answerFour": "¡Absolutamente! HorizonWing es de código abierto y de uso gratuito tanto para proyectos personales como comerciales.",
+    "questionFive": "¿Necesito experiencia en codificación?",
+    "answerFive": "El conocimiento básico de React y Tailwind CSS es útil, pero nuestra documentación lo hace fácil incluso para los principiantes."
+  },
+  "Cta": {
+    "title": "Comience a crear su página de destino hoy mismo",
+    "description": "Únete a miles de desarrolladores que utilizan HorizonWing para crear páginas de destino modernas y responsivas. Comience con nuestra plantilla de código abierto.",
+    "primaryAction": "Empezar a construir",
+    "secondaryAction": "Ver en GitHub"
+  },
+  "Pricing": {
+    "title": "Precios sencillos",
+    "description": "Elige el plan perfecto para tu proyecto",
+    "monthly": "Mensual",
+    "yearly": "Anual",
+    "oneTime": "Vida",
+    "month": "mes",
+    "popular": "Popular",
+    "upgrade": "Comenzar",
+    "basicTitle": "Básico",
+    "proTitle": "Pro",
+    "basicBilling": "Perfecto para proyectos personales",
+    "proBilling": "Lo mejor para sitios web comerciales",
+    "basicFeatureTitle": "Todo lo que necesitas para empezar",
+    "proFeatureTitle": "Funciones avanzadas para profesionales",
+    "basic": {
+      "credits": "Todos los componentes principales",
+      "generation": "Plantillas básicas",
+      "cover": "Apoyo de la comunidad",
+      "scripts": "Modo oscuro",
+      "download": "Optimización SEO básica"
+    },
+    "pro": {
+      "credits": "Todo en Basic",
+      "basic": "Componentes de primera calidad",
+      "llm": "Plantillas premium",
+      "tts": "Soporte prioritario",
+      "styles": "Personalización avanzada"
+    }
+  },
+  "Hero": {
+    "title": "Haz que la página de destino sea más rápida",
+    "description": "Esta es una plantilla de página de destino gratuita, de código abierto y poderosa para proyectos saas, lo ayudará a hacer que su inicio sea más rápido.",
+    "action": "Comenzar"
+  }
+}

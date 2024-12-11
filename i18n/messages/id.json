@@ -1,0 +1,126 @@
+{
+  "HomePage": {
+    "create": "Menciptakan",
+    "t3": "T3",
+    "firstSteps": "Langkah pertama",
+    "firstStepsDesc": "Hanya dasar-dasar - Semua yang perlu Anda ketahui untuk menyiapkan database dan autentikasi Anda.",
+    "docs": "Dokumentasi",
+    "docsDesc": "Pelajari selengkapnya tentang Buat Aplikasi T3, pustaka yang digunakannya, dan cara menerapkannya."
+  },
+  "Navbar": {
+    "home": "Rumah",
+    "pricing": "Harga",
+    "menu": "Menu"
+  },
+  "Footer": {
+    "description": "HorizonWing adalah template halaman arahan sumber terbuka modern yang dibuat dengan Next.js dan Tailwind CSS, membantu pengembang membuat situs web yang indah lebih cepat.",
+    "product": "Hasil",
+    "components": "Komponen",
+    "templates": "Template",
+    "documentation": "Dokumentasi",
+    "social": "Sosial",
+    "github": "GitHub",
+    "community": "Masyarakat",
+    "twitter": "Twitter",
+    "discord": "Perselisihan",
+    "telegram": "Telegram",
+    "copyright": "Seluruh hak cipta.",
+    "service": "Sumber daya",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Ketentuan Layanan",
+    "contact": "Hubungi"
+  },
+  "Feature": {
+    "title": "Fitur utama",
+    "description": "Template halaman arahan modern yang dibuat dengan Next.js, Tailwind CSS, Shadcn, dan TypeScript",
+    "openSource": "Sumber Terbuka",
+    "openSourceDesc": "Gratis dan open source, sempurna untuk proyek Anda berikutnya",
+    "ResponsiveDesign": "Desain Responsif",
+    "ResponsiveDesignDesc": "Terlihat bagus di perangkat apa pun, dari seluler hingga desktop",
+    "EasyCustomization": "Kustomisasi Mudah",
+    "EasyCustomizationDesc": "Mudah disesuaikan dengan komponen modular",
+    "MobileFriendly": "Ramah Seluler",
+    "MobileFriendlyDesc": "Dioptimalkan untuk perangkat seluler dengan interaksi yang lancar",
+    "SEOOptimized": "SEO Dioptimalkan",
+    "SEOOptimizedDesc": "Dibangun dengan praktik terbaik SEO untuk visibilitas yang lebih baik",
+    "GlobalizationSupport": "Dukungan i18n",
+    "GlobalizationSupportDesc": "Internasionalisasi bawaan untuk jangkauan global"
+  },
+  "Testimonial": {
+    "title": "Apa Kata Pengguna Tentang HorizonWing",
+    "description": "Lihat pendapat developer dan kreator tentang template halaman landing kami.",
+    "quoteOne": "HorizonWing sangat terstruktur dengan baik. Kodenya bersih dan dokumentasinya sangat baik.",
+    "authorOne": "Alex Chen",
+    "titleOne": "Pengembang Frontend",
+    "quoteTwo": "Dukungan internasionalisasinya luar biasa. Menghemat waktu berjam-jam untuk bekerja pada pelokalan.",
+    "authorTwo": "Maria Garcia",
+    "titleTwo": "Manajer Proyek",
+    "quoteThree": "Template halaman arahan terbaik yang pernah saya gunakan. Optimasi SEO sangat membantu peringkat situs kami.",
+    "authorThree": "James Wilson",
+    "titleThree": "Pendiri Startup",
+    "quoteFour": "Desain responsif bekerja dengan sempurna di semua perangkat. Sangat terkesan dengan perhatian terhadap detail.",
+    "authorFour": "Sophie Martin",
+    "titleFour": "Desainer UI",
+    "quoteFive": "Kustomisasi sangat mudah. Kami menyesuaikannya dengan merek kami dalam waktu singkat.",
+    "authorFive": "David Kim",
+    "titleFive": "Direktur Pemasaran",
+    "quoteSix": "Pendekatan yang mengutamakan seluler dan pengoptimalan kinerja adalah apa yang kami butuhkan.",
+    "authorSix": "Emma Thompson",
+    "titleSix": "Pengembang Web"
+  },
+  "Faq": {
+    "title": "Pertanyaan Umum",
+    "description": "Semua yang perlu Anda ketahui tentang template halaman arahan HorizonWing",
+    "questionOne": "Teknologi apa yang digunakan HorizonWing?",
+    "answerOne": "HorizonWing dibangun dengan Next.js, TypeScript, Tailwind CSS, dan alat modern lainnya. Ini menggunakan praktik terbaik untuk kinerja dan SEO.",
+    "questionTwo": "Apakah mudah untuk menyesuaikan?",
+    "answerTwo": "Ya! Templatnya sangat modular dan terdokumentasi dengan baik. Anda dapat dengan mudah memodifikasi komponen, gaya, dan konten agar sesuai dengan merek Anda.",
+    "questionThree": "Bagaimana cara kerja internasionalisasi?",
+    "answerThree": "Kami menggunakan next-intl untuk internasionalisasi, sehingga mudah untuk menambahkan bahasa baru. Cukup tambahkan terjemahan Anda ke folder pesan.",
+    "questionFour": "Bisakah saya menggunakannya untuk proyek komersial?",
+    "answerFour": "Sama sekali! HorizonWing adalah sumber terbuka dan gratis untuk digunakan untuk proyek pribadi dan komersial.",
+    "questionFive": "Apakah saya memerlukan pengalaman pengkodean?",
+    "answerFive": "Pengetahuan dasar tentang React dan Tailwind CSS sangat membantu, tetapi dokumentasi kami membuatnya mudah bahkan untuk pemula."
+  },
+  "Cta": {
+    "title": "Mulai Bangun Halaman Arahan Anda Hari Ini",
+    "description": "Bergabunglah dengan ribuan pengembang yang menggunakan HorizonWing untuk membuat halaman arahan yang modern dan responsif. Mulai dengan templat sumber terbuka kami.",
+    "primaryAction": "Mulai Membangun",
+    "secondaryAction": "Lihat di GitHub"
+  },
+  "Pricing": {
+    "title": "Harga Sederhana",
+    "description": "Pilih paket yang sempurna untuk proyek Anda",
+    "monthly": "Bulanan",
+    "yearly": "Tahunan",
+    "oneTime": "Seumur hidup",
+    "month": "bulan",
+    "popular": "Populer",
+    "upgrade": "Memulai",
+    "basicTitle": "Dasar",
+    "proTitle": "Pro",
+    "basicBilling": "Sempurna untuk proyek pribadi",
+    "proBilling": "Terbaik untuk situs web bisnis",
+    "basicFeatureTitle": "Semua yang Anda butuhkan untuk memulai",
+    "proFeatureTitle": "Fitur lanjutan untuk profesional",
+    "basic": {
+      "credits": "Semua komponen inti",
+      "generation": "Templat dasar",
+      "cover": "Dukungan komunitas",
+      "scripts": "Mode gelap",
+      "download": "Optimasi SEO dasar"
+    },
+    "pro": {
+      "credits": "Semua yang ada di Basic",
+      "basic": "Komponen premium",
+      "llm": "Templat premium",
+      "tts": "Dukungan prioritas",
+      "styles": "Kustomisasi lanjutan"
+    }
+  },
+  "Hero": {
+    "title": "Membuat Halaman Arahan Lebih Cepat",
+    "description": "Ini adalah template halaman arahan gratis, sumber terbuka, dan kuat untuk proyek saas, ini akan membantu Anda membuat startup Anda lebih cepat.",
+    "action": "Memulai"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "HomePage": {
+    "create": "創造する",
+    "t3": "T3",
+    "firstSteps": "最初のステップ",
+    "firstStepsDesc": "基本事項 - データベースと認証を設定するために知っておく必要のあるすべての情報。",
+    "docs": "ドキュメンテーション",
+    "docsDesc": "Create T3 App、使用するライブラリ、およびデプロイ方法の詳細をご覧ください。"
+  },
+  "Navbar": {
+    "home": "家",
+    "pricing": "プライシング",
+    "menu": "メニュー"
+  },
+  "Footer": {
+    "description": "HorizonWingは、Next.jsとTailwind CSSで構築された最新のオープンソースのランディングページテンプレートであり、開発者が美しいWebサイトをより迅速に作成するのに役立ちます。",
+    "product": "積",
+    "components": "コンポーネント",
+    "templates": "テンプレート",
+    "documentation": "ドキュメンテーション",
+    "social": "社会的",
+    "github": "GitHubの",
+    "community": "コミュニティ",
+    "twitter": "囀る",
+    "discord": "不和",
+    "telegram": "電報",
+    "copyright": "全著作権所有。",
+    "service": "リソース",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "contact": "お 問い合わせ"
+  },
+  "Feature": {
+    "title": "主な機能",
+    "description": "Next.js、Tailwind CSS、Shadcn、TypeScript で構築された最新のランディング ページ テンプレート",
+    "openSource": "オープンソース",
+    "openSourceDesc": "無料でオープンソースで、次のプロジェクトに最適",
+    "ResponsiveDesign": "レスポンシブデザイン",
+    "ResponsiveDesignDesc": "モバイルからデスクトップまで、どのデバイスでも見栄えがします",
+    "EasyCustomization": "簡単なカスタマイズ",
+    "EasyCustomizationDesc": "モジュラーコンポーネントで簡単にカスタマイズできます",
+    "MobileFriendly": "モバイルフレンドリー",
+    "MobileFriendlyDesc": "スムーズな操作でモバイルデバイスに最適化",
+    "SEOOptimized": "SEO最適化",
+    "SEOOptimizedDesc": "SEOのベストプラクティスに基づいて構築され、可視性が向上します",
+    "GlobalizationSupport": "i18nサポート",
+    "GlobalizationSupportDesc": "グローバル展開のための組み込みの国際化"
+  },
+  "Testimonial": {
+    "title": "#0についてのユーザーの声#",
+    "description": "ランディングページテンプレートについて、開発者やクリエイターの意見をご覧ください。",
+    "quoteOne": "HorizonWingは信じられないほどよく構成されています。コードはクリーンで、ドキュメントは優れています。",
+    "authorOne": "アレックス・チェン",
+    "titleOne": "フロントエンド開発者",
+    "quoteTwo": "国際化のサポートは素晴らしいです。ローカリゼーションの作業時間を節約しました。",
+    "authorTwo": "マリア・ガルシア",
+    "titleTwo": "プロジェクトマネージャー",
+    "quoteThree": "私が使用した中で最高のランディングページテンプレート。SEOの最適化は、私たちのサイトのランキングに本当に役立ちました。",
+    "authorThree": "ジェームズ・ウィルソン",
+    "titleThree": "スタートアップ創業者",
+    "quoteFour": "レスポンシブデザインは、すべてのデバイスで完全に機能します。細部へのこだわりに非常に感銘を受けました。",
+    "authorFour": "ソフィー・マーティン",
+    "titleFour": "UIデザイナー",
+    "quoteFive": "カスタマイズはとても簡単です。私たちはすぐにそれを私たちのブランドに適応させました。",
+    "authorFive": "デビッド・キム",
+    "titleFive": "マーケティングディレクター",
+    "quoteSix": "モバイルファーストのアプローチとパフォーマンスの最適化は、まさに私たちが必要としていたものでした。",
+    "authorSix": "エマ・トンプソン",
+    "titleSix": "ウェブ開発者"
+  },
+  "Faq": {
+    "title": "よくある質問",
+    "description": "HorizonWingランディングページテンプレートについて知っておくべきことすべて",
+    "questionOne": "HorizonWingはどのようなテクノロジーを使用していますか?",
+    "answerOne": "HorizonWing は、Next.js、TypeScript、Tailwind CSS、およびその他の最新のツールで構築されています。パフォーマンスとSEOのベストプラクティスを使用しています。",
+    "questionTwo": "カスタマイズは簡単ですか?",
+    "answerTwo": "はい！テンプレートは高度にモジュール化されており、十分に文書化されています。コンポーネント、スタイル、コンテンツは、ブランドに合わせて簡単に変更できます。",
+    "questionThree": "国際化はどのように機能しますか?",
+    "answerThree": "私たちは国際化のためにnext-intlを使用しており、新しい言語を簡単に追加することができます。翻訳をメッセージフォルダに追加するだけです。",
+    "questionFour": "商用プロジェクトに使用できますか?",
+    "answerFour": "そうですよ！HorizonWingはオープンソースで、個人プロジェクトと商用プロジェクトの両方で無料で使用できます。",
+    "questionFive": "コーディングの経験は必要ですか?",
+    "answerFive": "React と Tailwind CSS の基本的な知識は役に立ちますが、ドキュメントは初心者でも簡単にできます。"
+  },
+  "Cta": {
+    "title": "今日からランディングページの作成を始めましょう",
+    "description": "HorizonWingを使用して、最新のレスポンシブランディングページを作成している何千人もの開発者に加わりましょう。オープンソースのテンプレートを始めましょう。",
+    "primaryAction": "構築を開始",
+    "secondaryAction": "GitHubで見る"
+  },
+  "Pricing": {
+    "title": "シンプルな価格設定",
+    "description": "プロジェクトに最適なプランをお選びください",
+    "monthly": "マンスリー",
+    "yearly": "毎年",
+    "oneTime": "一生",
+    "month": "月",
+    "popular": "人気のある",
+    "upgrade": "今すぐ始める",
+    "basicTitle": "基本的な",
+    "proTitle": "プロ",
+    "basicBilling": "個人的なプロジェクトに最適",
+    "proBilling": "ビジネスウェブサイトに最適",
+    "basicFeatureTitle": "始めるために必要なものすべて",
+    "proFeatureTitle": "プロフェッショナル向けの高度な機能",
+    "basic": {
+      "credits": "すべてのコアコンポーネント",
+      "generation": "基本テンプレート",
+      "cover": "コミュニティサポート",
+      "scripts": "ダークモード",
+      "download": "基本的なSEO最適化"
+    },
+    "pro": {
+      "credits": "Basic のすべて",
+      "basic": "プレミアムコンポーネント",
+      "llm": "プレミアムテンプレート",
+      "tts": "優先サポート",
+      "styles": "高度なカスタマイズ"
+    }
+  },
+  "Hero": {
+    "title": "ランディングページを高速化",
+    "description": "これは、saasプロジェクト用の無料のオープンソースで強力なランディングページテンプレートであり、スタートアップを高速化するのに役立ちます。",
+    "action": "今すぐ始める"
+  }
+}

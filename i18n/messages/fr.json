@@ -1,0 +1,126 @@
+{
+  "HomePage": {
+    "create": "Créer",
+    "t3": "T3",
+    "firstSteps": "Premiers pas",
+    "firstStepsDesc": "Juste l’essentiel - Tout ce que vous devez savoir pour configurer votre base de données et votre authentification.",
+    "docs": "Documentation",
+    "docsDesc": "En savoir plus sur Create T3 App, les bibliothèques qu’elle utilise et comment la déployer."
+  },
+  "Navbar": {
+    "home": "Domicile",
+    "pricing": "Prisée",
+    "menu": "Menu"
+  },
+  "Footer": {
+    "description": "HorizonWing est un modèle de page de destination moderne et open-source construit avec Next.js et Tailwind CSS, aidant les développeurs à créer plus rapidement de beaux sites Web.",
+    "product": "Produit",
+    "components": "Composants",
+    "templates": "Modèles",
+    "documentation": "Documentation",
+    "social": "Social",
+    "github": "Lien avec GitHub",
+    "community": "Communauté",
+    "twitter": "Gazouiller",
+    "discord": "Discorde",
+    "telegram": "Télégramme",
+    "copyright": "Tous droits réservés.",
+    "service": "Ressources",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d’utilisation",
+    "contact": "Contactez-nous"
+  },
+  "Feature": {
+    "title": "Caractéristiques clés",
+    "description": "Un modèle de page de destination moderne construit avec Next.js, Tailwind CSS, Shadcn et TypeScript",
+    "openSource": "Libre",
+    "openSourceDesc": "Gratuit et open source, parfait pour votre prochain projet",
+    "ResponsiveDesign": "Conception réactive",
+    "ResponsiveDesignDesc": "S’affiche parfaitement sur n’importe quel appareil, du mobile au bureau",
+    "EasyCustomization": "Personnalisation facile",
+    "EasyCustomizationDesc": "Simple à personnaliser grâce à des composants modulaires",
+    "MobileFriendly": "Adapté aux mobiles",
+    "MobileFriendlyDesc": "Optimisé pour les appareils mobiles avec des interactions fluides",
+    "SEOOptimized": "Optimisé pour le référencement",
+    "SEOOptimizedDesc": "Construit avec les meilleures pratiques SEO pour une meilleure visibilité",
+    "GlobalizationSupport": "Prise en charge de l’i18n",
+    "GlobalizationSupportDesc": "Internationalisation intégrée pour une portée mondiale"
+  },
+  "Testimonial": {
+    "title": "Ce que les utilisateurs disent de HorizonWing",
+    "description": "Découvrez ce que les développeurs et les créateurs pensent de notre modèle de page de destination.",
+    "quoteOne": "HorizonWing est incroyablement bien structuré. Le code est propre et la documentation est excellente.",
+    "authorOne": "Alex Chen",
+    "titleOne": "Développeur frontend",
+    "quoteTwo": "Le soutien à l’internationalisation est fantastique. Cela m’a épargné des heures de travail sur la localisation.",
+    "authorTwo": "Maria Garcia",
+    "titleTwo": "Chef de projet",
+    "quoteThree": "Le meilleur modèle de page de destination que j’ai utilisé. L’optimisation SEO a vraiment aidé le classement de notre site.",
+    "authorThree": "James Wilson",
+    "titleThree": "Fondateur de startup",
+    "quoteFour": "Le design réactif fonctionne parfaitement sur tous les appareils. Très impressionné par l’attention portée aux détails.",
+    "authorFour": "Sophie Martin",
+    "titleFour": "Concepteur d’interface utilisateur",
+    "quoteFive": "La personnalisation est super facile. Nous l’avons adapté à notre marque en un rien de temps.",
+    "authorFive": "David Kim",
+    "titleFive": "Directeur Marketing",
+    "quoteSix": "L’approche mobile-first et l’optimisation des performances sont exactement ce dont nous avions besoin.",
+    "authorSix": "Emma Thompson",
+    "titleSix": "Développeur Web"
+  },
+  "Faq": {
+    "title": "Questions fréquentes",
+    "description": "Tout ce que vous devez savoir sur le modèle de page de destination HorizonWing",
+    "questionOne": "Quelles technologies utilise HorizonWing ?",
+    "answerOne": "HorizonWing est construit avec Next.js, TypeScript, Tailwind CSS et d’autres outils modernes. Il utilise les meilleures pratiques en matière de performance et de référencement.",
+    "questionTwo": "Est-il facile à personnaliser ?",
+    "answerTwo": "Oui! Le modèle est très modulaire et bien documenté. Vous pouvez facilement modifier les composants, les styles et le contenu pour qu’ils correspondent à votre marque.",
+    "questionThree": "Comment fonctionne l’internationalisation ?",
+    "answerThree": "Nous utilisons next-intl pour l’internationalisation, ce qui facilite l’ajout de nouvelles langues. Il suffit d’ajouter vos traductions dans le dossier des messages.",
+    "questionFour": "Puis-je l’utiliser pour des projets commerciaux ?",
+    "answerFour": "Absolument! HorizonWing est open-source et gratuit pour les projets personnels et commerciaux.",
+    "questionFive": "Ai-je besoin d’une expérience en codage ?",
+    "answerFive": "Une connaissance de base de React et de Tailwind CSS est utile, mais notre documentation facilite la tâche même pour les débutants."
+  },
+  "Cta": {
+    "title": "Commencez à créer votre page de destination dès aujourd’hui",
+    "description": "Rejoignez des milliers de développeurs qui utilisent HorizonWing pour créer des pages de destination modernes et réactives. Lancez-vous avec notre modèle open-source.",
+    "primaryAction": "Commencez à construire",
+    "secondaryAction": "Voir sur GitHub"
+  },
+  "Pricing": {
+    "title": "Tarification simple",
+    "description": "Choisissez le plan parfait pour votre projet",
+    "monthly": "Mensuel",
+    "yearly": "Annuel",
+    "oneTime": "Vie",
+    "month": "mois",
+    "popular": "Populaire",
+    "upgrade": "Démarrer",
+    "basicTitle": "Basique",
+    "proTitle": "Pro",
+    "basicBilling": "Parfait pour les projets personnels",
+    "proBilling": "Idéal pour les sites Web d’entreprise",
+    "basicFeatureTitle": "Tout ce dont vous avez besoin pour commencer",
+    "proFeatureTitle": "Fonctionnalités avancées pour les professionnels",
+    "basic": {
+      "credits": "Tous les composants de base",
+      "generation": "Modèles de base",
+      "cover": "Soutien communautaire",
+      "scripts": "Mode sombre",
+      "download": "Optimisation SEO de base"
+    },
+    "pro": {
+      "credits": "Tout en Basic",
+      "basic": "Composants haut de gamme",
+      "llm": "Modèles premium",
+      "tts": "Un soutien prioritaire",
+      "styles": "Personnalisation avancée"
+    }
+  },
+  "Hero": {
+    "title": "Accélérez la page de destination",
+    "description": "Il s’agit d’un modèle de page de destination gratuit, open-source et puissant pour le projet Saas, il vous aidera à rendre votre startup plus rapide.",
+    "action": "Démarrer"
+  }
+}

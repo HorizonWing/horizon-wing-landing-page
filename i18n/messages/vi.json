@@ -1,0 +1,126 @@
+{
+  "HomePage": {
+    "create": "Tạo",
+    "t3": "T3",
+    "firstSteps": "Những bước đầu tiên",
+    "firstStepsDesc": "Chỉ những điều cơ bản - Mọi thứ bạn cần biết để thiết lập cơ sở dữ liệu và xác thực của mình.",
+    "docs": "Tư liệu",
+    "docsDesc": "Tìm hiểu thêm về Tạo ứng dụng T3, các thư viện mà ứng dụng này sử dụng và cách triển khai."
+  },
+  "Navbar": {
+    "home": "Nhà",
+    "pricing": "Giá",
+    "menu": "Thực đơn"
+  },
+  "Footer": {
+    "description": "HorizonWing là mẫu landing page mã nguồn mở hiện đại được xây dựng bằng Next.js và Tailwind CSS, giúp các nhà phát triển tạo các trang web đẹp nhanh hơn.",
+    "product": "Sản phẩm",
+    "components": "Linh kiện",
+    "templates": "Mẫu",
+    "documentation": "Tư liệu",
+    "social": "Xã hội",
+    "github": "GitHub",
+    "community": "Cộng đồng",
+    "twitter": "Twitter",
+    "discord": "Bất hòa",
+    "telegram": "Telegram",
+    "copyright": "Đã đăng ký Bản quyền.",
+    "service": "Tài nguyên",
+    "privacy": "Chính sách bảo mật",
+    "terms": "Điều khoản dịch vụ",
+    "contact": "Liên hệ với chúng tôi"
+  },
+  "Feature": {
+    "title": "Các tính năng chính",
+    "description": "Một mẫu trang đích hiện đại được xây dựng với Next.js, Tailwind CSS, Shadcn và TypeScript",
+    "openSource": "Mã nguồn mở",
+    "openSourceDesc": "Mã nguồn mở và miễn phí, hoàn hảo cho dự án tiếp theo của bạn",
+    "ResponsiveDesign": "Thiết kế đáp ứng",
+    "ResponsiveDesignDesc": "Trông tuyệt vời trên mọi thiết bị, từ thiết bị di động đến máy tính để bàn",
+    "EasyCustomization": "Tùy chỉnh dễ dàng",
+    "EasyCustomizationDesc": "Đơn giản để tùy chỉnh với các thành phần mô-đun",
+    "MobileFriendly": "Thân thiện với thiết bị di động",
+    "MobileFriendlyDesc": "Tối ưu hóa cho thiết bị di động với tương tác mượt mà",
+    "SEOOptimized": "Tối ưu hóa SEO",
+    "SEOOptimizedDesc": "Được xây dựng với các phương pháp hay nhất về SEO để hiển thị tốt hơn",
+    "GlobalizationSupport": "Hỗ trợ i18n",
+    "GlobalizationSupportDesc": "Quốc tế hóa tích hợp để tiếp cận toàn cầu"
+  },
+  "Testimonial": {
+    "title": "Người dùng nói gì về HorizonWing",
+    "description": "Xem nhà phát triển và người sáng tạo nghĩ gì về mẫu trang đích của chúng tôi.",
+    "quoteOne": "HorizonWing có cấu trúc cực kỳ tốt. Mã sạch sẽ và tài liệu rất tuyệt vời.",
+    "authorOne": "Alex Trần",
+    "titleOne": "Nhà phát triển giao diện người dùng",
+    "quoteTwo": "Hỗ trợ quốc tế hóa thật tuyệt vời. Giúp tôi tiết kiệm hàng giờ làm việc về bản địa hóa.",
+    "authorTwo": "Maria Garcia",
+    "titleTwo": "Quản lý dự án",
+    "quoteThree": "Mẫu trang đích tốt nhất mà tôi đã sử dụng. Tối ưu hóa SEO thực sự giúp xếp hạng trang web của chúng tôi.",
+    "authorThree": "James Wilson",
+    "titleThree": "Người sáng lập Startup",
+    "quoteFour": "Thiết kế đáp ứng hoạt động hoàn hảo trên tất cả các thiết bị. Rất ấn tượng với sự chú ý đến từng chi tiết.",
+    "authorFour": "Sophie Martin",
+    "titleFour": "Thiết kế giao diện người dùng",
+    "quoteFive": "Tùy chỉnh siêu dễ dàng. Chúng tôi đã điều chỉnh nó cho phù hợp với thương hiệu của mình ngay lập tức.",
+    "authorFive": "David Kim",
+    "titleFive": "Giám đốc Marketing",
+    "quoteSix": "Cách tiếp cận ưu tiên thiết bị di động và tối ưu hóa hiệu suất chính xác là những gì chúng tôi cần.",
+    "authorSix": "Emma Thompson",
+    "titleSix": "Nhà phát triển web"
+  },
+  "Faq": {
+    "title": "Những câu hỏi thường gặp",
+    "description": "Mọi thứ bạn cần biết về mẫu trang đích HorizonWing",
+    "questionOne": "HorizonWing sử dụng những công nghệ nào?",
+    "answerOne": "HorizonWing được xây dựng với Next.js, TypeScript, Tailwind CSS và các công cụ hiện đại khác. Nó sử dụng các phương pháp hay nhất cho hiệu suất và SEO.",
+    "questionTwo": "Tùy chỉnh có dễ dàng không?",
+    "answerTwo": "Có! Mẫu có mô-đun cao và được ghi chép đầy đủ. Bạn có thể dễ dàng sửa đổi các thành phần, phong cách và nội dung để phù hợp với thương hiệu của mình.",
+    "questionThree": "Quốc tế hóa hoạt động như thế nào?",
+    "answerThree": "Chúng tôi sử dụng next-intl để quốc tế hóa, giúp dễ dàng thêm các ngôn ngữ mới. Chỉ cần thêm bản dịch của bạn vào thư mục tin nhắn.",
+    "questionFour": "Tôi có thể sử dụng nó cho các dự án thương mại không?",
+    "answerFour": "Hoàn toàn! HorizonWing là mã nguồn mở và sử dụng miễn phí cho cả dự án cá nhân và thương mại.",
+    "questionFive": "Tôi có cần kinh nghiệm viết mã không?",
+    "answerFive": "Kiến thức cơ bản về React và Tailwind CSS rất hữu ích, nhưng tài liệu của chúng tôi giúp nó dễ dàng ngay cả đối với người mới bắt đầu."
+  },
+  "Cta": {
+    "title": "Bắt đầu xây dựng trang đích của bạn ngay hôm nay",
+    "description": "Tham gia cùng hàng nghìn nhà phát triển đang sử dụng HorizonWing để tạo các trang đích hiện đại, đáp ứng. Bắt đầu với mẫu mã nguồn mở của chúng tôi.",
+    "primaryAction": "Bắt đầu xây dựng",
+    "secondaryAction": "Xem trên GitHub"
+  },
+  "Pricing": {
+    "title": "Định giá đơn giản",
+    "description": "Chọn kế hoạch hoàn hảo cho dự án của bạn",
+    "monthly": "Nguyệt san",
+    "yearly": "Thường niên",
+    "oneTime": "Đời",
+    "month": "tháng",
+    "popular": "Phổ biến",
+    "upgrade": "Bắt đầu",
+    "basicTitle": "Cơ bản",
+    "proTitle": "Pro",
+    "basicBilling": "Hoàn hảo cho các dự án cá nhân",
+    "proBilling": "Tốt nhất cho các trang web doanh nghiệp",
+    "basicFeatureTitle": "Mọi thứ bạn cần để bắt đầu",
+    "proFeatureTitle": "Các tính năng nâng cao dành cho các chuyên gia",
+    "basic": {
+      "credits": "Tất cả các thành phần cốt lõi",
+      "generation": "Các mẫu cơ bản",
+      "cover": "Hỗ trợ cộng đồng",
+      "scripts": "Chế độ tối",
+      "download": "Tối ưu hóa SEO cơ bản"
+    },
+    "pro": {
+      "credits": "Mọi thứ trong Basic",
+      "basic": "Các thành phần cao cấp",
+      "llm": "Mẫu cao cấp",
+      "tts": "Hỗ trợ ưu tiên",
+      "styles": "Tùy chỉnh nâng cao"
+    }
+  },
+  "Hero": {
+    "title": "Làm cho trang đích nhanh hơn",
+    "description": "Đây là một mẫu trang đích miễn phí, mã nguồn mở và mạnh mẽ cho dự án saas, nó sẽ giúp bạn khởi nghiệp nhanh hơn.",
+    "action": "Bắt đầu"
+  }
+}

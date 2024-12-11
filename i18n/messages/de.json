@@ -1,0 +1,126 @@
+{
+  "HomePage": {
+    "create": "Schaffen",
+    "t3": "T3",
+    "firstSteps": "Erste Schritte",
+    "firstStepsDesc": "Nur die Grundlagen - Alles, was Sie wissen müssen, um Ihre Datenbank und Authentifizierung einzurichten.",
+    "docs": "Dokumentation",
+    "docsDesc": "Erfahren Sie mehr über Create T3 App, die verwendeten Bibliotheken und die Bereitstellung von Create."
+  },
+  "Navbar": {
+    "home": "Heim",
+    "pricing": "Auszeichnung",
+    "menu": "Menü"
+  },
+  "Footer": {
+    "description": "HorizonWing ist eine moderne Open-Source-Landingpage-Vorlage, die mit Next.js und Tailwind CSS erstellt wurde und Entwicklern hilft, schöne Websites schneller zu erstellen.",
+    "product": "Produkt",
+    "components": "Komponenten",
+    "templates": "Schablonen",
+    "documentation": "Dokumentation",
+    "social": "Sozial",
+    "github": "GitHub (Englisch)",
+    "community": "Gemeinschaft",
+    "twitter": "Zwitschern",
+    "discord": "Zwietracht",
+    "telegram": "Telegramm",
+    "copyright": "Alle Rechte vorbehalten.",
+    "service": "Betriebsmittel",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "contact": "Kontaktieren Sie uns"
+  },
+  "Feature": {
+    "title": "Hauptmerkmale",
+    "description": "Eine moderne Landingpage-Vorlage, die mit Next.js, Tailwind CSS, Shadcn und TypeScript erstellt wurde",
+    "openSource": "Quelloffen",
+    "openSourceDesc": "Kostenlos und Open Source, perfekt für Ihr nächstes Projekt",
+    "ResponsiveDesign": "Ansprechendes Design",
+    "ResponsiveDesignDesc": "Sieht auf jedem Gerät gut aus, vom Handy bis zum Desktop",
+    "EasyCustomization": "Einfache Anpassung",
+    "EasyCustomizationDesc": "Einfache Anpassung mit modularen Komponenten",
+    "MobileFriendly": "Mobilfreundlich",
+    "MobileFriendlyDesc": "Optimiert für mobile Geräte mit reibungslosen Interaktionen",
+    "SEOOptimized": "SEO-optimiert",
+    "SEOOptimizedDesc": "Entwickelt mit SEO-Best-Practices für bessere Sichtbarkeit",
+    "GlobalizationSupport": "i18n-Unterstützung",
+    "GlobalizationSupportDesc": "Integrierte Internationalisierung für globale Reichweite"
+  },
+  "Testimonial": {
+    "title": "Was Benutzer über #0 sagen#",
+    "description": "Erfahren Sie, was Entwickler und Ersteller über unsere Landingpage-Vorlage denken.",
+    "quoteOne": "HorizonWing ist unglaublich gut strukturiert. Der Code ist sauber und die Dokumentation ist ausgezeichnet.",
+    "authorOne": "Alex Chen",
+    "titleOne": "Frontend-Entwickler",
+    "quoteTwo": "Die Unterstützung bei der Internationalisierung ist fantastisch. Das hat mir stundenlange Arbeit an der Lokalisierung erspart.",
+    "authorTwo": "Maria Garcia",
+    "titleTwo": "Projektleiter",
+    "quoteThree": "Beste Landingpage-Vorlage, die ich je verwendet habe. Die SEO-Optimierung hat unserem Website-Ranking wirklich geholfen.",
+    "authorThree": "James Wilson",
+    "titleThree": "Startup-Gründer",
+    "quoteFour": "Das responsive Design funktioniert einwandfrei auf allen Geräten. Sehr beeindruckt von der Liebe zum Detail.",
+    "authorFour": "Sophie Martin",
+    "titleFour": "UI-Designer",
+    "quoteFive": "Die Anpassung ist super einfach. Wir haben es in kürzester Zeit an unsere Marke angepasst.",
+    "authorFive": "David Kim",
+    "titleFive": "Marketingleiter",
+    "quoteSix": "Der Mobile-First-Ansatz und die Performance-Optimierungen sind genau das, was wir brauchten.",
+    "authorSix": "Emma Thompson",
+    "titleSix": "Webentwickler"
+  },
+  "Faq": {
+    "title": "Häufige Fragen",
+    "description": "Alles, was Sie über die Zielseitenvorlage HorizonWing wissen müssen",
+    "questionOne": "Welche Technologien verwendet HorizonWing?",
+    "answerOne": "HorizonWing wurde mit Next.js, TypeScript, Tailwind CSS und anderen modernen Tools erstellt. Es verwendet Best Practices für Leistung und SEO.",
+    "questionTwo": "Ist es einfach anzupassen?",
+    "answerTwo": "Ja! Die Vorlage ist hochgradig modular aufgebaut und gut dokumentiert. Sie können Komponenten, Stile und Inhalte ganz einfach an Ihre Marke anpassen.",
+    "questionThree": "Wie funktioniert die Internationalisierung?",
+    "answerThree": "Wir verwenden next-intl für die Internationalisierung, was das Hinzufügen neuer Sprachen erleichtert. Fügen Sie einfach Ihre Übersetzungen zum Nachrichtenordner hinzu.",
+    "questionFour": "Kann ich es für kommerzielle Projekte verwenden?",
+    "answerFour": "Absolut! HorizonWing ist Open Source und kann sowohl für persönliche als auch für kommerzielle Projekte kostenlos verwendet werden.",
+    "questionFive": "Benötige ich Programmiererfahrung?",
+    "answerFive": "Grundkenntnisse in React und Tailwind CSS sind hilfreich, aber unsere Dokumentation macht es auch Anfängern leicht."
+  },
+  "Cta": {
+    "title": "Beginnen Sie noch heute mit der Erstellung Ihrer Landing Page",
+    "description": "Schließen Sie sich Tausenden von Entwicklern an, die HorizonWing verwenden, um moderne, reaktionsschnelle Landing Pages zu erstellen. Beginnen Sie mit unserer Open-Source-Vorlage.",
+    "primaryAction": "Beginnen Sie mit der Entwicklung",
+    "secondaryAction": "Auf GitHub anzeigen"
+  },
+  "Pricing": {
+    "title": "Einfache Preisgestaltung",
+    "description": "Wählen Sie den perfekten Plan für Ihr Projekt",
+    "monthly": "Monatlich",
+    "yearly": "Jährlich",
+    "oneTime": "Lebensdauer",
+    "month": "Monat",
+    "popular": "Beliebt",
+    "upgrade": "Loslegen",
+    "basicTitle": "Grundlegend",
+    "proTitle": "Profi",
+    "basicBilling": "Perfekt für persönliche Projekte",
+    "proBilling": "Am besten für Unternehmenswebsites",
+    "basicFeatureTitle": "Alles, was Sie brauchen, um loszulegen",
+    "proFeatureTitle": "Erweiterte Funktionen für Profis",
+    "basic": {
+      "credits": "Alle Kernkomponenten",
+      "generation": "Grundlegende Vorlagen",
+      "cover": "Unterstützung durch die Community",
+      "scripts": "Dunkler Modus",
+      "download": "Grundlegende SEO-Optimierung"
+    },
+    "pro": {
+      "credits": "Alles in Basic",
+      "basic": "Premium-Komponenten",
+      "llm": "Premium-Vorlagen",
+      "tts": "Vorrangiger Support",
+      "styles": "Erweiterte Anpassung"
+    }
+  },
+  "Hero": {
+    "title": "Landing Page schneller machen",
+    "description": "Dies ist eine kostenlose, quelloffene und leistungsstarke Landingpage-Vorlage für das SaaS-Projekt, die Ihnen helfen wird, Ihr Startup schneller zu machen.",
+    "action": "Loslegen"
+  }
+}

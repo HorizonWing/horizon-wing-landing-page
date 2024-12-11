@@ -1,0 +1,126 @@
+{
+  "HomePage": {
+    "create": "창조하다",
+    "t3": "티3",
+    "firstSteps": "첫 번째 단계",
+    "firstStepsDesc": "기본 사항 - 데이터베이스 및 인증을 설정하기 위해 알아야 할 모든 것.",
+    "docs": "문서조사",
+    "docsDesc": "Create T3 App, 사용하는 라이브러리 및 배포 방법에 대해 자세히 알아보세요."
+  },
+  "Navbar": {
+    "home": "집",
+    "pricing": "가격",
+    "menu": "메뉴"
+  },
+  "Footer": {
+    "description": "HorizonWing은 Next.js 및 Tailwind CSS로 구축된 최신 오픈 소스 랜딩 페이지 템플릿으로, 개발자가 아름다운 웹사이트를 더 빠르게 만들 수 있도록 도와줍니다.",
+    "product": "제품",
+    "components": "구성 요소",
+    "templates": "템플릿",
+    "documentation": "문서조사",
+    "social": "사회적인",
+    "github": "깃허브(GitHub)",
+    "community": "커뮤니티",
+    "twitter": "지저귀다",
+    "discord": "갈등",
+    "telegram": "전보",
+    "copyright": "판권 소유.",
+    "service": "리소스",
+    "privacy": "개인정보처리방침",
+    "terms": "서비스 약관",
+    "contact": "문의"
+  },
+  "Feature": {
+    "title": "주요기능",
+    "description": "Next.js, Tailwind CSS, Shadcn 및 TypeScript로 구축된 최신 랜딩 페이지 템플릿",
+    "openSource": "오픈 소스",
+    "openSourceDesc": "무료 오픈 소스, 다음 프로젝트에 적합",
+    "ResponsiveDesign": "반응형 디자인",
+    "ResponsiveDesignDesc": "모바일에서 데스크톱에 이르기까지 모든 장치에서 멋지게 보입니다.",
+    "EasyCustomization": "쉬운 사용자 정의",
+    "EasyCustomizationDesc": "모듈식 구성 요소로 간단하게 사용자 정의",
+    "MobileFriendly": "모바일 친화적",
+    "MobileFriendlyDesc": "원활한 상호 작용이 가능한 모바일 장치에 최적화",
+    "SEOOptimized": "SEO 최적화",
+    "SEOOptimizedDesc": "더 나은 가시성을 위해 SEO 모범 사례로 구축",
+    "GlobalizationSupport": "i18n 지원",
+    "GlobalizationSupportDesc": "글로벌 도달을 위한 기본 제공 국제화"
+  },
+  "Testimonial": {
+    "title": "#0에 대한 사용자 의견#",
+    "description": "개발자와 크리에이터가 랜딩 페이지 템플릿에 대해 어떻게 생각하는지 알아보세요.",
+    "quoteOne": "HorizonWing은 믿을 수 없을 정도로 잘 구성되어 있습니다. 코드는 깨끗하고 문서는 훌륭합니다.",
+    "authorOne": "알렉스 첸",
+    "titleOne": "프론트엔드 개발자",
+    "quoteTwo": "국제화 지원은 환상적입니다. 현지화 작업에 드는 시간을 절약할 수 있었습니다.",
+    "authorTwo": "마리아 가르시아",
+    "titleTwo": "프로젝트 매니저",
+    "quoteThree": "내가 사용한 최고의 랜딩 페이지 템플릿입니다. SEO 최적화는 사이트 순위에 정말 도움이 되었습니다.",
+    "authorThree": "제임스 윌슨",
+    "titleThree": "스타트업 창업자",
+    "quoteFour": "반응형 디자인은 모든 장치에서 완벽하게 작동합니다. 세부 사항에 대한 관심에 깊은 인상을 받았습니다.",
+    "authorFour": "소피 마틴",
+    "titleFour": "UI 디자이너",
+    "quoteFive": "사용자 정의는 매우 쉽습니다. 우리는 그것을 순식간에 우리 브랜드에 적용했습니다.",
+    "authorFive": "데이비드 김",
+    "titleFive": "마케팅 디렉터",
+    "quoteSix": "모바일 우선 접근 방식과 성능 최적화가 바로 우리에게 필요했던 것입니다.",
+    "authorSix": "엠마 톰슨",
+    "titleSix": "웹 개발자"
+  },
+  "Faq": {
+    "title": "일반적인 질문",
+    "description": "HorizonWing 랜딩 페이지 템플릿에 대해 알아야 할 모든 것",
+    "questionOne": "HorizonWing은 어떤 기술을 사용합니까?",
+    "answerOne": "HorizonWing은 Next.js, TypeScript, Tailwind CSS 및 기타 최신 도구로 구축되었습니다. 성능 및 SEO에 대한 모범 사례를 사용합니다.",
+    "questionTwo": "사용자 정의가 쉽습니까?",
+    "answerTwo": "예! 이 템플릿은 고도로 모듈화되어 있으며 잘 문서화되어 있습니다. 구성 요소, 스타일 및 콘텐츠를 브랜드에 맞게 쉽게 수정할 수 있습니다.",
+    "questionThree": "국제화는 어떻게 이루어지나요?",
+    "answerThree": "우리는 국제화를 위해 next-intl을 사용하여 새로운 언어를 쉽게 추가할 수 있습니다. 메시지 폴더에 번역을 추가하기만 하면 됩니다.",
+    "questionFour": "상업 프로젝트에 사용할 수 있습니까?",
+    "answerFour": "절대로! HorizonWing은 오픈 소스이며 개인 및 상업 프로젝트 모두에 무료로 사용할 수 있습니다.",
+    "questionFive": "코딩 경험이 필요한가요?",
+    "answerFive": "React 및 Tailwind CSS에 대한 기본 지식이 도움이 되지만 설명서는 초보자도 쉽게 사용할 수 있도록 합니다."
+  },
+  "Cta": {
+    "title": "지금 바로 랜딩 페이지 구축을 시작하세요",
+    "description": "HorizonWing을 사용하여 현대적이고 반응이 빠른 랜딩 페이지를 만드는 수천 명의 개발자와 함께하세요. 오픈 소스 템플릿으로 시작하세요.",
+    "primaryAction": "구축 시작",
+    "secondaryAction": "GitHub에서 보기"
+  },
+  "Pricing": {
+    "title": "간단한 가격 책정",
+    "description": "프로젝트에 가장 적합한 플랜 선택",
+    "monthly": "매달의",
+    "yearly": "해마다",
+    "oneTime": "평생",
+    "month": "달",
+    "popular": "인기 있는",
+    "upgrade": "시작",
+    "basicTitle": "기초의",
+    "proTitle": "프로",
+    "basicBilling": "개인 프로젝트에 적합",
+    "proBilling": "비즈니스 웹 사이트에 가장 적합",
+    "basicFeatureTitle": "시작하는 데 필요한 모든 것",
+    "proFeatureTitle": "전문가를 위한 고급 기능",
+    "basic": {
+      "credits": "모든 핵심 구성 요소",
+      "generation": "기본 템플릿",
+      "cover": "커뮤니티 지원",
+      "scripts": "다크 모드",
+      "download": "기본 SEO 최적화"
+    },
+    "pro": {
+      "credits": "Basic의 모든 기능",
+      "basic": "프리미엄 구성 요소",
+      "llm": "프리미엄 템플릿",
+      "tts": "우선 지원",
+      "styles": "고급 사용자 정의"
+    }
+  },
+  "Hero": {
+    "title": "랜딩 페이지를 더 빠르게 만들기",
+    "description": "이것은 saas 프로젝트를 위한 무료 오픈 소스이며 강력한 랜딩 페이지 템플릿으로, 스타트업을 더 빠르게 만드는 데 도움이 됩니다.",
+    "action": "시작"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "HomePage": {
+    "create": "創造",
+    "t3": "T3",
+    "firstSteps": "第一步",
+    "firstStepsDesc": "只是基礎知識 - 設置資料庫和身份驗證所需瞭解的一切。",
+    "docs": "文件",
+    "docsDesc": "瞭解有關 Create T3 App、它使用的庫以及如何部署它的更多資訊。"
+  },
+  "Navbar": {
+    "home": "家",
+    "pricing": "定價",
+    "menu": "功能表"
+  },
+  "Footer": {
+    "description": "HorizonWing 是一個使用 Next.js 和 Tailwind CSS 構建的現代開源登錄頁面範本，可幫助開發人員更快地創建漂亮的網站。",
+    "product": "產品",
+    "components": "元件",
+    "templates": "範本",
+    "documentation": "文件",
+    "social": "社會的",
+    "github": "GitHub的",
+    "community": "社區",
+    "twitter": "唽",
+    "discord": "不和",
+    "telegram": "電報",
+    "copyright": "保留所有權利。",
+    "service": "資源",
+    "privacy": "隱私策略",
+    "terms": "服務條款",
+    "contact": "聯繫我們"
+  },
+  "Feature": {
+    "title": "主要特點",
+    "description": "使用 Next.js、Tailwind CSS、Shadcn 和 TypeScript 構建的現代登陸頁面範本",
+    "openSource": "開源",
+    "openSourceDesc": "免費和開源，非常適合您的下一個專案",
+    "ResponsiveDesign": "回應式設計",
+    "ResponsiveDesignDesc": "在任何設備上看起來都很棒，從行動裝置到桌面設備",
+    "EasyCustomization": "輕鬆定製",
+    "EasyCustomizationDesc": "使用模組化元件輕鬆定製",
+    "MobileFriendly": "移動友好",
+    "MobileFriendlyDesc": "針對行動裝置進行了優化，交互流暢",
+    "SEOOptimized": "SEO 優化",
+    "SEOOptimizedDesc": "採用 SEO 最佳實踐構建，以提高可見性",
+    "GlobalizationSupport": "i18n 支援",
+    "GlobalizationSupportDesc": "內置國際化功能，實現全球覆蓋"
+  },
+  "Testimonial": {
+    "title": "使用者對 #0 的評價#",
+    "description": "了解開發人員和創作者對我們的著陸頁範本的看法。",
+    "quoteOne": "HorizonWing 的結構非常好。代碼很乾淨，文檔也很棒。",
+    "authorOne": "陳磊",
+    "titleOne": "前端開發人員",
+    "quoteTwo": "國際化支援非常棒。為我節省了數小時的當地語系化工作。",
+    "authorTwo": "瑪麗亞·加西亞",
+    "titleTwo": "專案管理人",
+    "quoteThree": "我用過的最好的著陸頁範本。SEO 優化確實幫助了我們的網站排名。",
+    "authorThree": "詹姆斯·威爾遜",
+    "titleThree": "初創公司創始人",
+    "quoteFour": "回應式設計在所有設備上都能完美運行。對細節的關注給我留下了深刻的印象。",
+    "authorFour": "索菲·馬丁",
+    "titleFour": "UI 設計師",
+    "quoteFive": "定製非常簡單。我們很快就將其適應了我們的品牌。",
+    "authorFive": "大衛·金",
+    "titleFive": "市場總監",
+    "quoteSix": "移動優先的方法和性能優化正是我們所需要的。",
+    "authorSix": "艾瑪·湯普森",
+    "titleSix": "Web 開發人員"
+  },
+  "Faq": {
+    "title": "常見問題",
+    "description": "您需要瞭解的有關 HorizonWing 登陸頁面範本的所有資訊",
+    "questionOne": "HorizonWing 使用什麼技術？",
+    "answerOne": "HorizonWing 是使用 Next.js、TypeScript、Tailwind CSS 和其他現代工具構建的。它使用性能和 SEO 的最佳實踐。",
+    "questionTwo": "定製容易嗎？",
+    "answerTwo": "是的！該範本是高度模組化的，並且有據可查。您可以輕鬆修改元件、樣式和內容以匹配您的品牌。",
+    "questionThree": "國際化如何運作？",
+    "answerThree": "我們使用 next-intl 進行國際化，從而輕鬆添加新語言。只需將您的翻譯添加到 messages 資料夾中即可。",
+    "questionFour": "我可以將其用於商業專案嗎？",
+    "answerFour": "絕對！HorizonWing 是開源的，可免費用於個人和商業專案。",
+    "questionFive": "我需要編碼經驗嗎？",
+    "answerFive": "React 和 Tailwind CSS 的基本知識很有説明，但我們的文檔即使對於初學者也很容易。"
+  },
+  "Cta": {
+    "title": "立即開始構建您的著陸頁",
+    "description": "加入成千上萬使用 HorizonWing 創建現代回應式登錄頁面的開發人員。開始使用我們的開源範本。",
+    "primaryAction": "開始構建",
+    "secondaryAction": "在 GitHub 上查看"
+  },
+  "Pricing": {
+    "title": "簡單的定價",
+    "description": "為您的項目選擇完美的計劃",
+    "monthly": "每月",
+    "yearly": "每年",
+    "oneTime": "輩子",
+    "month": "月",
+    "popular": "流行",
+    "upgrade": "開始使用",
+    "basicTitle": "基本",
+    "proTitle": "專業版",
+    "basicBilling": "非常適合個人專案",
+    "proBilling": "最適合商業網站",
+    "basicFeatureTitle": "入門所需的一切",
+    "proFeatureTitle": "面向專業人士的高級功能",
+    "basic": {
+      "credits": "所有核心元件",
+      "generation": "基本範本",
+      "cover": "社區支援",
+      "scripts": "深色模式",
+      "download": "基礎 SEO 優化"
+    },
+    "pro": {
+      "credits": "Basic 中的所有內容",
+      "basic": "高級元件",
+      "llm": "高級範本",
+      "tts": "優先支援",
+      "styles": "高級定製"
+    }
+  },
+  "Hero": {
+    "title": "讓著陸頁更快",
+    "description": "這是一個免費、開源且功能強大的 saas 專案登錄頁面範本，它將説明您更快地啟動。",
+    "action": "開始使用"
+  }
+}
