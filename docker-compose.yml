@@ -10,6 +10,10 @@ services:
       - "3000:3000"
     environment:
       - NODE_ENV=production
+      - VERSION=${VERSION}
+      - DOMAIN=${DOMAIN}
+    env_file:
+      - .env
     restart: always
     healthcheck:
       test: ["CMD", "wget", "--spider", "-q", "http://localhost:3000/health"]
