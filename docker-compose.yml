@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  web:
+    container_name: horizon-wing-landing-page
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+    restart: always
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "-q", "http://localhost:3000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    networks:
+      - horizon-network
+
+networks:
+  horizon-network:
+    name: horizon-network
+    driver: bridge
