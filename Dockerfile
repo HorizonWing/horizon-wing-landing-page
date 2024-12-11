@@ -3,28 +3,34 @@ FROM node:18-alpine AS builder
 
 WORKDIR /app
 
+# 安装pnpm
+RUN corepack enable && corepack prepare pnpm@latest --activate
+
 # 复制package文件
-COPY package*.json ./
+COPY package*.json pnpm-lock.yaml ./
 
 # 安装依赖
-RUN npm ci
+RUN pnpm install --frozen-lockfile
 
 # 复制源代码
 COPY . .
 
 # 构建应用
-RUN npm run build
+RUN pnpm build
 
 # 生产阶段
 FROM node:18-alpine AS runner
 
 WORKDIR /app
 
+# 安装pnpm
+RUN corepack enable && corepack prepare pnpm@latest --activate
+
 # 复制package文件
-COPY package*.json ./
+COPY package*.json pnpm-lock.yaml ./
 
 # 只安装生产依赖
-RUN npm ci --only=production
+RUN pnpm install --frozen-lockfile --prod
 
 # 从构建阶段复制构建产物
 COPY --from=builder /app/.next ./.next
@@ -37,4 +43,4 @@ ENV PORT 3000
 
 EXPOSE 3000
 
-CMD ["npm", "start"] 
+CMD ["pnpm", "start"] 
