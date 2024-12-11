@@ -2,7 +2,6 @@ version: '3.8'
 
 services:
   web:
-    container_name: horizon-wing-landing-page
     build:
       context: .
       dockerfile: Dockerfile
