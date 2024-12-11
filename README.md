@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/logo.png" alt="HorizonWing Logo" width="80" height="80" style="border-radius: 50%;" />
+</p>
+
 # HorizonWing Landing Page
 
 [English](./README.md) | [中文](./README.zh.md)
