@@ -25,16 +25,15 @@ export default function Cta() {
                 {t('primaryAction')}
               </Button>
             </Link>
-            <Button 
-              size="lg" 
-              variant="outline"
-              className="min-w-[160px] border-black text-black hover:bg-black hover:text-white"
-              asChild
-            >
-              <Link href={env.GITHUB_REPO_URL} target="_blank">
+            <Link href={env.GITHUB_REPO_URL} target="_blank">
+              <Button 
+                size="lg" 
+                variant="outline"
+                className="min-w-[160px] border-black text-black hover:bg-black hover:text-white"
+              >
                 {t('secondaryAction')}
-              </Link>
-            </Button>
+              </Button>
+            </Link>
           </div>
         </div>
       </div>
