@@ -45,6 +45,19 @@ pnpm install
 pnpm dev
 ```
 
+# Using Docker to start
+
+```bash
+# .env config file
+cp .env.example .env
+
+# docker-compose up project
+docker-compose up -d
+
+# Access address
+# http://localhost:3000
+```
+
 ## Project Structure
 
 ```shell
@@ -76,6 +89,7 @@ horizonwing/
 ## Internationalization
 
 Currently supports 17 languages including:
+
 - Arabic (العربية)
 - German (Deutsch)
 - English
@@ -113,7 +127,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Contact
 
 - Issues: [GitHub Issues](https://github.com/HorizonWing/horizon-wing-landing-page/issues)
-- Email: horizonwingtech@gmail.com
+- Email: <horizonwingtech@gmail.com>
 
 ## Support
 

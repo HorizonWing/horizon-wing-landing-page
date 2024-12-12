@@ -45,6 +45,19 @@ pnpm install
 pnpm dev
 ```
 
+# 使用 Docker 启动
+
+```bash
+# .env 配置文件
+cp .env.example .env
+
+# docker-compose 启动项目
+docker-compose up -d
+
+# 访问地址
+# http://localhost:3000
+```
+
 ## 项目结构
 
 ```shell
@@ -76,6 +89,7 @@ horizonwing/
 ## 国际化
 
 目前支持 17 种语言，包括：
+
 - 阿拉伯语 (العربية)
 - 德语 (Deutsch)
 - 英语 (English)
@@ -113,7 +127,7 @@ MIT License © 2024-PRESENT HorizonWing
 ## 联系我们
 
 - 问题反馈：[GitHub Issues](https://github.com/HorizonWing/horizon-wing-landing-page/issues)
-- 邮件联系：horizonwingtech@gmail.com
+- 邮件联系：<horizonwingtech@gmail.com>
 
 ## 支持项目
 
