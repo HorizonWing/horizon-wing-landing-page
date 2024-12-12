@@ -17,6 +17,18 @@ A modern landing page template built with Next.js, Tailwind CSS, and next-intl f
 - 🔍 SEO optimized
 - 🛠 TypeScript support
 
+## Performance
+
+PageSpeed Insights performance metrics:
+
+**Desktop Performance:**
+![Desktop Performance](docs/1.png)
+
+**Mobile Performance:**
+![Mobile Performance](docs/2.png)
+
+These scores demonstrate the template's excellent performance optimization across both desktop and mobile devices.
+
 ## Getting Started
 
 ```bash
