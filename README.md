@@ -132,3 +132,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Support
 
 If you find this project helpful, please give it a star ⭐️
+
+<a href="https://www.uneed.best/tool/horizonwing-landing-page">
+  <img src="https://www.uneed.best/EMBED3.png" alt="Uneed Embed Badge" width="200" height="auto" />
+</a>

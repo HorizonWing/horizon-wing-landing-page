@@ -1,6 +1,7 @@
 import { useTranslations } from 'next-intl';
 import Link from 'next/link';
 import Image from 'next/image';
+import { env } from '@/env';
 
 const footerLinks = {
   product: [
@@ -108,6 +109,23 @@ export default function Footer() {
         {/* Copyright */}
         <div className="mt-16 text-center text-sm text-muted-foreground">
           © {new Date().getFullYear()} • HorizonWing {t('copyright')}
+        </div>
+
+        {/* 添加 Uneed Embed Badge */}
+        <div className="mt-8 flex justify-center">
+          <a 
+            href="https://www.uneed.best/tool/horizonwing-landing-page"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img 
+              src="https://www.uneed.best/EMBED3.png" 
+              alt="Uneed Embed Badge" 
+              width="200" 
+              height="auto" 
+              className="opacity-80 hover:opacity-100 transition-opacity"
+            />
+          </a>
         </div>
       </div>
     </footer>

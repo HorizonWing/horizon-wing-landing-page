@@ -132,3 +132,7 @@ MIT License © 2024-PRESENT HorizonWing
 ## 支持项目
 
 如果这个项目对你有帮助，请给它一个 star ⭐️
+
+<a href="https://www.uneed.best/tool/horizonwing-landing-page">
+  <img src="https://www.uneed.best/EMBED3.png" alt="Uneed Embed Badge" width="200" height="auto" />
+</a>
