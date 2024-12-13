@@ -1,11 +1,11 @@
-// @auto-i18n-check. Please do not delete the line.
-
 import React from "react";
 import { cn } from "@/lib/utils";
 import { GeistSans } from "geist/font/sans";
 import {NextIntlClientProvider, useLocale, useMessages} from 'next-intl';
 import Navbar from "@/components/common/Navbar";
 import Footer from '@/components/common/Footer';
+import { GoogleAnalytics } from '@next/third-parties/google'
+import { env } from "@/env";
 
 export default function LocaleLayout({
     children,
@@ -22,6 +22,7 @@ export default function LocaleLayout({
             {children}
             <Footer />
         </NextIntlClientProvider>
+        {env.GA_ID && <GoogleAnalytics gaId={env.GA_ID} />}
         </body>
     </html>
     );

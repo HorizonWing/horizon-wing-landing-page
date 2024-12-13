@@ -13,6 +13,7 @@ export const env = createEnv({
     VERSION: z.string(),
     GITHUB_REPO_URL: z.string().default("https://github.com/HorizonWing/horizon-wing-landing-page"),
     DOMAIN: z.string().default("http://localhost:3000"),
+    GA_ID: z.string().optional(),
   },
 
   /**
@@ -35,6 +36,7 @@ export const env = createEnv({
     GITHUB_REPO_URL: process.env.GITHUB_REPO_URL,
     NEXT_PUBLIC_GITHUB_REPO_URL: process.env.NEXT_PUBLIC_GITHUB_REPO_URL,
     DOMAIN: process.env.DOMAIN,
+    GA_ID: process.env.GA_ID,
   },
   /**
    * Run `build` or `dev` with `SKIP_ENV_VALIDATION` to skip env validation. This is especially
