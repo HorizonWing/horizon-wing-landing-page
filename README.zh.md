@@ -61,7 +61,7 @@ docker-compose up -d
 ## 项目结构
 
 ```shell
-horizonwing/
+horizon-wing-landing-page/
 ├── src/
 │   ├── app/              # Next.js 应用路由
 │   │   ├── [locale]/    # 国际化路由

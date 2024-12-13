@@ -61,7 +61,7 @@ docker-compose up -d
 ## Project Structure
 
 ```shell
-horizonwing/
+horizon-wing-landing-page/
 ├── src/
 │   ├── app/              # Next.js app routes
 │   │   ├── [locale]/    # i18n routes
