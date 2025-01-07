@@ -73,7 +73,7 @@
     "questionTwo": "是否容易定制？",
     "answerTwo": "是的！模板采用模块化设计，文档完善。您可以轻松修改组件、样式和内容以匹配您的品牌。",
     "questionThree": "国际化功能如何实现？",
-    "answerThree": "我们使用next-intl进行国际化，添加新语言非常简单。只需��在messages文件夹中添加您的翻译即可。",
+    "answerThree": "我们使用next-intl进行国际化，添加新语言非常简单。只需在messages文件夹中添加您的翻译即可。",
     "questionFour": "可以用于商业项目吗？",
     "answerFour": "当然可以！HorizonWing是开源的，可以免费用于个人和商业项目。",
     "questionFive": "需要编程经验吗？",
