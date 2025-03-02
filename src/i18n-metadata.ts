@@ -1,11 +1,9 @@
-import {notFound} from 'next/navigation';
-import {getRequestConfig} from 'next-intl/server';
-import type { AbstractIntlMessages } from 'next-intl';
+// @auto-i18n-check. Please do not delete the line.
 
 export const localeItems = [
+    {code: 'en', name: 'English'},
     {code: 'ar', name: 'العربية'},
     {code: 'de', name: 'Deutsch'},
-    {code: 'en', name: 'English'},
     {code: 'es', name: 'Español'},
     {code: 'fr', name: 'Français'},
     {code: 'hi', name: 'हिन्दी'},
@@ -24,13 +22,3 @@ export const localeItems = [
 
 export const locales = localeItems.map((item) => item.code);
 export const defaultLocale = 'en';
-
-export default getRequestConfig(async ({requestLocale}) => {
-    // Validate that the incoming `locale` parameter is valid
-    const locale: string = await requestLocale ?? "en";
-    if (!locales.includes(locale)) notFound();
-
-    return {
-        messages: ((await import(`./locales/${locale}.json`)) as { default: AbstractIntlMessages }).default
-    };
-});

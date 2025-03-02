@@ -10,7 +10,7 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import { localeItems } from "@/../i18n/request";
+import { localeItems } from "@/i18n-metadata";
 import { Button } from "@/components/ui/button";
 
 

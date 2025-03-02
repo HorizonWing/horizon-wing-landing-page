@@ -1,3 +1,4 @@
+// @auto-i18n-check. Please do not delete the line.
 import React from "react";
 import { cn } from "@/lib/utils";
 import { GeistSans } from "geist/font/sans";

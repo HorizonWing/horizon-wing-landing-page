@@ -1,0 +1,29 @@
+---
+description: i18n
+globs: 
+alwaysApply: false
+---
+## i18n intro
+
+```
+├── docs
+├── messages # i18n language files
+├── public
+│   └── avatars
+└── src
+    ├── app
+    │   └── [locale]
+    │       └── pricing
+    ├── components
+    │   ├── common
+    │   ├── home
+    │   ├── pricing
+    │   └── ui
+    ├── lib
+    └── styles  # style
+```
+
+## i18n requirement
+
+- Only need to generate the `en.json` language file
+- Prioritize using i18n for internationalization translation in the code

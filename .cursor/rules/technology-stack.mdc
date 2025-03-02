@@ -1,0 +1,12 @@
+---
+description: technology stack
+globs: 
+alwaysApply: false
+---
+## technology stack
+- nextjs
+- shadcn/ui
+- tailwindcss
+- next-intl
+- next-auth
+- zod
