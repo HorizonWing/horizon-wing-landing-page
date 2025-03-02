@@ -16,7 +16,7 @@ export default function LocaleLayout({
     const messages = useMessages();
     return (
     <html lang={locale} className={cn(GeistSans.variable, "scroll-smooth scrollbar-thin scrollbar-thumb-gray-300 scrollbar-track-gray-100")}>
-      <body>
+      <body suppressHydrationWarning>
         <NextIntlClientProvider locale={locale} messages={messages}>
             <Navbar />
             {children}
